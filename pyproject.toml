@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pythonlambdatemplate"
+name = "economic_events"
 version = "0.1.0"
 description = ""
 authors = ["Matthew Tondreau <mmtondreau@gmail.com>"]
@@ -8,11 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 boto3 = "^1.26.41"
-pandas = "^1.5.2"
-numpy = "^1.24.1"
 requests = "^2.28.1"
 pydantic = "^1.10.4"
-tdatonberrytrader = { git = "git@github.com:tonberry-org/tda_tonberry_trader.git", branch = "main" }
+eod = "^0.2.1"
 
 
 [tool.poetry.group.dev.dependencies]

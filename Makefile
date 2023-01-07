@@ -7,7 +7,7 @@ help:
 	@echo "package - generates zip file"
 	@echo "gen - generates response models"
 
-ZIP_FILE = pricehistory.zip
+ZIP_FILE = economic_events.zip
 WHEEL_FILE = realpath ./dist/*.whl
 
 .PHONY: clean

@@ -1,0 +1,1001 @@
+type,comparison,period,country,date,actual,previous,estimate,change,change_percentage
+Fed Bostic Speech,,,US,2023-01-06 20:30:00,,,,,
+Baker Hughes Total Rig Count,,Jan/06,US,2023-01-06 18:00:00,772,779,,-7,0.899
+Baker Hughes Oil Rig Count,,Jan/06,US,2023-01-06 18:00:00,618,621,,-3,0.483
+Fed Barkin Speech,,,US,2023-01-06 17:15:00,,,,,
+Fed Cook Speech,,,US,2023-01-06 16:15:00,,,,,
+Fed Bostic Speech,,,US,2023-01-06 16:15:00,,,,,
+Factory Orders ex Transportation,,Nov,US,2023-01-06 15:00:00,-0.8,0.1,-0.4,-0.9,900
+ISM Non-Manufacturing PMI,,Dec,US,2023-01-06 15:00:00,49.6,56.5,55,-6.9,12.212
+ISM Non-Manufacturing New Orders,,Dec,US,2023-01-06 15:00:00,45.2,56,54,-10.8,19.286
+ISM Non-Manufacturing Business Activity,,Dec,US,2023-01-06 15:00:00,54.7,64.7,59.5,-10,15.456
+ISM Non-Manufacturing Employment,,Dec,US,2023-01-06 15:00:00,49.8,51.5,50,-1.7,3.301
+ISM Non-Manufacturing Prices,,Dec,US,2023-01-06 15:00:00,67.6,70,68,-2.4,3.429
+Factory Orders,mom,Nov,US,2023-01-06 15:00:00,-1.8,0.4,-0.8,-2.2,550
+Nonfarm Payrolls Private,,Dec,US,2023-01-06 13:30:00,220,202,180,18,8.911
+Unemployment Rate,,Dec,US,2023-01-06 13:30:00,3.5,3.6,3.7,-0.1,2.778
+Average Hourly Earnings,yoy,Dec,US,2023-01-06 13:30:00,4.6,4.8,5,-0.2,4.167
+Average Weekly Hours,,Dec,US,2023-01-06 13:30:00,34.3,34.4,34.4,-0.1,0.291
+Participation Rate,,Dec,US,2023-01-06 13:30:00,62.3,62.2,62.1,0.1,0.161
+Government Payrolls,,Dec,US,2023-01-06 13:30:00,3,54,20,-51,94.444
+Non Farm Payrolls,,Dec,US,2023-01-06 13:30:00,223,256,200,-33,12.891
+Manufacturing Payrolls,,Dec,US,2023-01-06 13:30:00,8,8,10,,
+Total Vehicle Sales,,Dec,US,2023-01-06 00:00:00,13.3,14.1,13.5,-0.8,5.674
+Fed Bullard Speech,,,US,2023-01-05 18:20:00,,,,,
+8-Week Bill Auction,,,US,2023-01-05 16:30:00,4.43,4.25,,0.18,4.235
+4-Week Bill Auction,,,US,2023-01-05 16:30:00,4.1,3.83,,0.27,7.05
+EIA Distillate Fuel Production Change,,Dec/30,US,2023-01-05 16:00:00,-1.05,-0.017,,-1.033,-6076.471
+EIA Gasoline Production Change,,Dec/30,US,2023-01-05 16:00:00,-1.678,0.592,,-2.27,383.446
+EIA Heating Oil Stocks Change,,Dec/30,US,2023-01-05 16:00:00,-0.476,0.011,,-0.487,4427.273
+EIA Distillate Stocks Change,,Dec/30,US,2023-01-05 16:00:00,-1.427,0.282,-0.396,-1.709,606.028
+EIA Crude Oil Stocks Change,,Dec/30,US,2023-01-05 16:00:00,1.694,0.718,1.154,0.976,135.933
+EIA Gasoline Stocks Change,,Dec/30,US,2023-01-05 16:00:00,-0.346,-3.105,-0.486,2.759,-88.857
+EIA Refinery Crude Runs Change,,Dec/30,US,2023-01-05 16:00:00,-2.329,0.173,,-2.502,1446.243
+EIA Crude Oil Imports Change,,Dec/30,US,2023-01-05 16:00:00,-1.282,1.328,,-2.61,196.536
+EIA Cushing Crude Oil Stocks Change,,Dec/30,US,2023-01-05 16:00:00,0.244,-0.195,,0.439,-225.128
+EIA Natural Gas Stocks Change,,Dec/30,US,2023-01-05 15:30:00,-221,-213,-228,-8,-3.756
+S&P Global Composite PMI,,Dec,US,2023-01-05 14:45:00,45,46.4,44.6,-1.4,3.017
+S&P Global Services PMI,,Dec,US,2023-01-05 14:45:00,44.7,46.2,44.4,-1.5,3.247
+Fed Bostic Speech,,,US,2023-01-05 14:20:00,,,,,
+Initial Jobless Claims,,Dec/31,US,2023-01-05 13:30:00,204,223,225,-19,8.52
+Continuing Jobless Claims,,Dec/24,US,2023-01-05 13:30:00,1694,1718,1708,-24,1.397
+Jobless Claims 4-week Average,,Dec/31,US,2023-01-05 13:30:00,213.75,220.5,228,-6.75,3.061
+Imports,,Nov,US,2023-01-05 13:30:00,313.4,334.8,323.4,-21.4,6.392
+Exports,,Nov,US,2023-01-05 13:30:00,251.9,256.9,251.4,-5,1.946
+Balance of Trade,,Nov,US,2023-01-05 13:30:00,-61.5,-77.8,-73,16.3,-20.951
+ADP Employment Change,,Dec,US,2023-01-05 13:15:00,235,182,150,53,29.121
+Challenger Job Cuts,,Dec,US,2023-01-05 12:30:00,43.651,76.835,33,-33.184,43.189
+API Crude Oil Stock Change,,Dec/30,US,2023-01-04 21:30:00,3.298,-1.3,,4.598,-353.692
+FOMC Minutes,,,US,2023-01-04 19:00:00,,,,,
+17-Week Bill Auction,,,US,2023-01-04 16:30:00,4.57,4.55,,0.02,0.44
+ISM Manufacturing Prices,,Dec,US,2023-01-04 15:00:00,39.4,43,42.6,-3.6,8.372
+JOLTs Job Quits,,Nov,US,2023-01-04 15:00:00,4.173,4.047,4.01,0.126,3.113
+ISM Manufacturing New Orders,,Dec,US,2023-01-04 15:00:00,45.2,47.2,47,-2,4.237
+ISM Manufacturing PMI,,Dec,US,2023-01-04 15:00:00,48.4,49,48.5,-0.6,1.224
+JOLTs Job Openings,,Nov,US,2023-01-04 15:00:00,10.458,10.512,10,-0.054,0.514
+ISM Manufacturing Employment,,Dec,US,2023-01-04 15:00:00,51.4,48.4,48.3,3,6.198
+Redbook,yoy,Dec/31,US,2023-01-04 13:55:00,10.2,9.6,6.1,0.6,6.25
+MBA Purchase Index,,Dec/23,US,2023-01-04 12:00:00,,182.5,,,
+Mortgage Applications,,Dec/23,US,2023-01-04 12:00:00,,0.9,,,
+MBA Mortgage Applications,,Dec/23,US,2023-01-04 12:00:00,,0.9,,,
+MBA Mortgage Market Index,,Dec/30,US,2023-01-04 12:00:00,184.5,212.5,,-28,13.176
+MBA 30-Year Mortgage Rate,,Dec/23,US,2023-01-04 12:00:00,,6.34,,,
+MBA Mortgage Market Index,,Dec/23,US,2023-01-04 12:00:00,,212.5,,,
+MBA Mortgage Refinance Index,,Dec/23,US,2023-01-04 12:00:00,,371.4,,,
+MBA Purchase Index,,Dec/30,US,2023-01-04 12:00:00,160.2,182.5,,-22.3,12.219
+Mortgage Applications,,Dec/30,US,2023-01-04 12:00:00,,,,,
+Mortgage Rate,,Dec/30,US,2023-01-04 12:00:00,,,,,
+MBA Mortgage Refinance Index,,Dec/30,US,2023-01-04 12:00:00,310.9,371.4,,-60.5,16.29
+Mortgage Rate,,Dec/23,US,2023-01-04 12:00:00,,6.34,,,
+MBA 30-Year Mortgage Rate,,Dec/30,US,2023-01-04 12:00:00,6.58,6.34,,0.24,3.785
+MBA Mortgage Applications,,Dec/30,US,2023-01-04 12:00:00,-10.3,0.9,,-11.2,1244.444
+LMI Logistics Managers Index Current,,Dec,US,2023-01-04 10:30:00,,53.6,,,
+LMI Logistics Managers Index Current,,Dec,US,2023-01-04 09:50:00,54.6,53.6,,1,1.866
+6-Month Bill Auction,,,US,2023-01-03 16:30:00,4.635,4.6,,0.035,0.761
+3-Month Bill Auction,,,US,2023-01-03 16:30:00,4.41,4.35,,0.06,1.379
+Construction Spending,mom,Nov,US,2023-01-03 15:00:00,0.2,-0.2,-0.4,0.4,-200
+S&P Global Manufacturing PMI,,Dec,US,2023-01-03 14:45:00,46.2,47.7,46.2,-1.5,3.145
+New Year's Day,,,US,2023-01-02 00:00:00,,,,,
+Baker Hughes Oil Rig Count,,30/Dec,US,2022-12-30 18:00:00,,,,,
+Baker Hughes Total Rig Count,,30/Dec,US,2022-12-30 18:00:00,,,,,
+Baker Hughes Total Rig Count,,Dec/30,US,2022-12-30 18:00:00,779,779,,,
+Baker Hughes Oil Rig Count,,Dec/30,US,2022-12-30 18:00:00,621,622,625,-1,0.161
+Chicago PMI,,Dec,US,2022-12-30 14:45:00,44.9,37.2,40,7.7,20.699
+7-Year Note Auction,,,US,2022-12-29 18:00:00,3.921,3.89,,0.031,0.797
+4-Week Bill Auction,,,US,2022-12-29 16:30:00,3.83,3.61,,0.22,6.094
+8-Week Bill Auction,,,US,2022-12-29 16:30:00,4.25,3.985,,0.265,6.65
+EIA Gasoline Production Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Cushing Crude Oil Stocks Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Distillate Fuel Production Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Distillate Stocks Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Refinery Crude Runs Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Gasoline Stocks Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Crude Oil Imports Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Crude Oil Stocks Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Heating Oil Stocks Change,,23/Dec,US,2022-12-29 16:00:00,,,,,
+EIA Cushing Crude Oil Stocks Change,,Dec/23,US,2022-12-29 16:00:00,-0.195,0.853,,-1.048,122.86
+EIA Distillate Fuel Production Change,,Dec/23,US,2022-12-29 16:00:00,-0.017,-0.066,,0.049,-74.242
+EIA Distillate Stocks Change,,Dec/23,US,2022-12-29 16:00:00,0.282,-0.242,-2.05,0.524,-216.529
+EIA Refinery Crude Runs Change,,Dec/23,US,2022-12-29 16:00:00,0.173,-0.15,,0.323,-215.333
+EIA Gasoline Stocks Change,,Dec/23,US,2022-12-29 16:00:00,-3.105,2.53,0.52,-5.635,222.727
+EIA Crude Oil Imports Change,,Dec/23,US,2022-12-29 16:00:00,1.328,-1.092,,2.42,-221.612
+EIA Crude Oil Stocks Change,,Dec/23,US,2022-12-29 16:00:00,0.718,-5.894,-1.52,6.612,-112.182
+EIA Heating Oil Stocks Change,,Dec/23,US,2022-12-29 16:00:00,0.011,-0.239,,0.25,-104.603
+EIA Gasoline Production Change,,Dec/23,US,2022-12-29 16:00:00,0.592,0.358,,0.234,65.363
+EIA Natural Gas Stocks Change,,23/Dec,US,2022-12-29 15:30:00,,,,,
+EIA Natural Gas Stocks Change,,Dec/23,US,2022-12-29 15:30:00,-213,-87,-201,-126,-144.828
+Initial Jobless Claims,,24/Dec,US,2022-12-29 13:30:00,,,,,
+Continuing Jobless Claims,,17/Dec,US,2022-12-29 13:30:00,,,,,
+Jobless Claims 4-week Average,,24/Dec,US,2022-12-29 13:30:00,,,,,
+Initial Jobless Claims,,Dec/24,US,2022-12-29 13:30:00,225,216,225,9,4.167
+Continuing Jobless Claims,,Dec/17,US,2022-12-29 13:30:00,1710,1669,1686,41,2.457
+Jobless Claims 4-week Average,,Dec/24,US,2022-12-29 13:30:00,221,221.25,225,-0.25,0.113
+API Crude Oil Stock Change,,23/Dec,US,2022-12-28 21:30:00,,,,,
+API Crude Oil Stock Change,,Dec/23,US,2022-12-28 21:30:00,-1.3,-3.069,,1.769,-57.641
+5-Year Note Auction,,,US,2022-12-28 18:00:00,3.973,3.974,,-0.001,0.025
+2-Year FRN Auction,,,US,2022-12-28 16:30:00,0.239,0.22,,0.019,8.636
+17-Week Bill Auction,,,US,2022-12-28 16:30:00,4.55,4.425,,0.125,2.825
+Dallas Fed Services Index,,Dec,US,2022-12-28 15:30:00,-19.8,-11,-7,-8.8,-80
+Dallas Fed Services Revenues Index,,Dec,US,2022-12-28 15:30:00,-0.6,5.5,6,-6.1,110.909
+Pending Home Sales,mom,Nov,US,2022-12-28 15:00:00,-4,-4.6,-0.8,0.6,-13.043
+Pending Home Sales,yoy,Nov,US,2022-12-28 15:00:00,-37.8,-37.1,-32,-0.7,-1.887
+Richmond Fed Manufacturing Shipments Index,,Dec,US,2022-12-28 15:00:00,5,-8,-5,13,-162.5
+Richmond Fed Manufacturing Index,,Dec,US,2022-12-28 15:00:00,1,-9,-4,10,-111.111
+Richmond Fed Services Index,,Dec,US,2022-12-28 15:00:00,-12,-2,1,-10,-500
+Redbook,yoy,Dec/24,US,2022-12-28 13:55:00,9.6,7.6,,2,26.316
+MBA Mortgage Market Index,,23/Dec,US,2022-12-28 12:00:00,,,,,
+MBA Purchase Index,,23/Dec,US,2022-12-28 12:00:00,,,,,
+MBA Mortgage Applications,,23/Dec,US,2022-12-28 12:00:00,,,,,
+MBA Mortgage Refinance Index,,23/Dec,US,2022-12-28 12:00:00,,,,,
+MBA 30-Year Mortgage Rate,,23/Dec,US,2022-12-28 12:00:00,,,,,
+MBA Mortgage Market Index,,Dec/23,US,2022-12-28 12:00:00,,212.5,,,
+MBA Purchase Index,,Dec/23,US,2022-12-28 12:00:00,,182.5,,,
+MBA Mortgage Applications,,Dec/23,US,2022-12-28 12:00:00,,0.9,,,
+MBA Mortgage Refinance Index,,Dec/23,US,2022-12-28 12:00:00,,371.4,,,
+MBA 30-Year Mortgage Rate,,Dec/23,US,2022-12-28 12:00:00,,6.34,,,
+2-Year Note Auction,,,US,2022-12-27 18:00:00,4.373,4.505,,-0.132,2.93
+52-Week Bill Auction,,,US,2022-12-27 18:00:00,4.515,4.555,,-0.04,0.878
+3-Month Bill Auction,,,US,2022-12-27 16:30:00,4.35,4.29,,0.06,1.399
+52-Week Bill Auction,,,US,2022-12-27 16:30:00,,4.555,,,
+6-Month Bill Auction,,,US,2022-12-27 16:30:00,4.6,4.55,,0.05,1.099
+Dallas Fed Manufacturing Index,,Dec,US,2022-12-27 15:30:00,-18.8,-14.4,-11,-4.4,-30.556
+CB Consumer Confidence,,Dec,US,2022-12-27 15:00:00,,,,,
+Richmond Fed Manufacturing Index,,Dec,US,2022-12-27 15:00:00,,-9,-4,,
+Richmond Fed Services Index,,Dec,US,2022-12-27 15:00:00,,-2,1,,
+Richmond Fed Manufacturing Shipments Index,,Dec,US,2022-12-27 15:00:00,,-8,-5,,
+S&P/Case-Shiller Home Price,yoy,Oct,US,2022-12-27 14:00:00,8.6,10.4,8.2,-1.8,17.308
+House Price Index,yoy,Oct,US,2022-12-27 14:00:00,9.8,11.1,9.1,-1.3,11.712
+House Price Index,mom,Oct,US,2022-12-27 14:00:00,,0.1,-0.3,-0.1,100
+House Price Index,,Oct,US,2022-12-27 14:00:00,392.7,392.7,391.1,,
+S&P/Case-Shiller Home Price,mom,Oct,US,2022-12-27 14:00:00,-0.8,-1.5,-1.2,0.7,-46.667
+Redbook,yoy,24/Dec,US,2022-12-27 13:55:00,,,,,
+Redbook,yoy,Dec/24,US,2022-12-27 13:55:00,,,,,
+Wholesale Inventories,mom,Nov,US,2022-12-27 13:30:00,1,0.6,0.3,0.4,66.667
+Goods Trade Balance,,Nov,US,2022-12-27 13:30:00,-83.35,-98.8,-97,15.45,-15.638
+Retail Inventories Ex Autos,mom,Nov,US,2022-12-27 13:30:00,-0.3,-0.7,-0.2,0.4,-57.143
+Christmas,,substitute day,US,2022-12-26 00:00:00,,,,,
+Baker Hughes Oil Rig Count,,23/Dec,US,2022-12-23 18:00:00,,,,,
+Baker Hughes Total Rig Count,,23/Dec,US,2022-12-23 18:00:00,,,,,
+Baker Hughes Total Rig Count,,Dec/23,US,2022-12-23 18:00:00,779,776,,3,0.387
+Baker Hughes Oil Rig Count,,Dec/23,US,2022-12-23 18:00:00,622,620,,2,0.323
+Michigan Consumer Sentiment,,Dec,US,2022-12-23 15:00:00,59.7,56.8,59.1,2.9,5.106
+Michigan 5 Year Inflation Expectations,,Dec,US,2022-12-23 15:00:00,2.9,3,3,-0.1,3.333
+Michigan Inflation Expectations,,Dec,US,2022-12-23 15:00:00,4.4,4.9,4.6,-0.5,10.204
+Michigan Consumer Expectations,,Dec,US,2022-12-23 15:00:00,59.9,55.6,58.4,4.3,7.734
+Michigan Current Conditions,,Dec,US,2022-12-23 15:00:00,59.4,58.8,60.2,0.6,1.02
+New Home Sales,,Nov,US,2022-12-23 15:00:00,0.64,0.605,0.6,0.035,5.785
+New Home Sales,mom,Nov,US,2022-12-23 15:00:00,5.8,8.2,-4.7,-2.4,29.268
+Personal Income,mom,Nov,US,2022-12-23 13:30:00,0.4,0.7,0.3,-0.3,42.857
+Core PCE Price Index,yoy,Nov,US,2022-12-23 13:30:00,4.7,5,4.7,-0.3,6
+Durable Goods Orders ex Defense,mom,Nov,US,2022-12-23 13:30:00,-2.6,0.4,0.2,-3,750
+Durable Goods Orders Ex Transp,mom,Nov,US,2022-12-23 13:30:00,0.2,0.1,,0.1,100
+Durable Goods Orders,mom,Nov,US,2022-12-23 13:30:00,-2.1,0.7,-0.6,-2.8,400
+Personal Spending,mom,Nov,US,2022-12-23 13:30:00,0.1,0.9,0.2,-0.8,88.889
+PCE Price Index,mom,Nov,US,2022-12-23 13:30:00,0.1,0.4,0.2,-0.3,75
+PCE Price Index,yoy,Nov,US,2022-12-23 13:30:00,5.5,6.1,5.5,-0.6,9.836
+Core PCE Price Index,mom,Nov,US,2022-12-23 13:30:00,0.2,0.3,0.2,-0.1,33.333
+Non Defense Goods Orders Ex Air,,Nov,US,2022-12-23 13:30:00,0.2,0.6,,-0.4,66.667
+Building Permits,mom,Nov,US,2022-12-23 13:25:00,-10.6,-3.3,-11.2,-7.3,-221.212
+Building Permits,,Nov,US,2022-12-23 13:25:00,1.351,1.512,1.342,-0.161,10.648
+Building Permits,,Nov,US,2022-12-23 13:00:00,1.351,1.512,1.342,-0.161,10.648
+Building Permits,mom,Nov,US,2022-12-23 13:00:00,-10.6,-3.3,-11.2,-7.3,-221.212
+5-Year TIPS Auction,,,US,2022-12-22 18:00:00,1.504,1.732,,-0.228,13.164
+4-Week Bill Auction,,,US,2022-12-22 16:30:00,3.61,3.78,,-0.17,4.497
+8-Week Bill Auction,,,US,2022-12-22 16:30:00,3.985,4.06,,-0.075,1.847
+Kansas Fed Manufacturing Index,,Dec,US,2022-12-22 16:00:00,-13,-10,-8,-3,-30
+Kansas Fed Composite Index,,Dec,US,2022-12-22 16:00:00,-9,-6,-5,-3,-50
+EIA Natural Gas Stocks Change,,16/Dec,US,2022-12-22 15:30:00,,,,,
+EIA Natural Gas Stocks Change,,Dec/16,US,2022-12-22 15:30:00,-87,-50,-93,-37,-74
+CB Leading Index,mom,Nov,US,2022-12-22 15:00:00,-1,-0.9,-0.4,-0.1,-11.111
+PCE Prices,qoq,Q3,US,2022-12-22 13:30:00,4.3,7.3,4.3,-3,41.096
+Jobless Claims 4-week Average,,17/Dec,US,2022-12-22 13:30:00,,,,,
+Continuing Jobless Claims,,10/Dec,US,2022-12-22 13:30:00,,,,,
+Initial Jobless Claims,,17/Dec,US,2022-12-22 13:30:00,,,,,
+Core PCE Prices,qoq,Q3,US,2022-12-22 13:30:00,4.7,4.7,4.6,,
+GDP Growth Rate,qoq,Q3,US,2022-12-22 13:30:00,3.2,-0.6,2.9,3.8,-633.333
+Corporate Profits,qoq,Q3,US,2022-12-22 13:30:00,0.8,6.2,0.2,-5.4,87.097
+GDP Price Index,qoq,Q3,US,2022-12-22 13:30:00,4.4,9,4.3,-4.6,51.111
+Real Consumer Spending,qoq,Q3,US,2022-12-22 13:30:00,2.3,2,1.7,0.3,15
+Chicago Fed National Activity Index,,Nov,US,2022-12-22 13:30:00,,-0.05,-0.18,,
+GDP Sales,qoq,Q3,US,2022-12-22 13:30:00,4.5,1.3,4,3.2,246.154
+Jobless Claims 4-week Average,,Dec/17,US,2022-12-22 13:30:00,221.75,228,229,-6.25,2.741
+Continuing Jobless Claims,,Dec/10,US,2022-12-22 13:30:00,1672,1678,1683,-6,0.358
+Initial Jobless Claims,,Dec/17,US,2022-12-22 13:30:00,216,214,222,2,0.935
+20-Year Bond Auction,,,US,2022-12-21 18:00:00,3.935,4.072,,-0.137,3.364
+17-Week Bill Auction,,,US,2022-12-21 16:30:00,4.425,4.44,,-0.015,0.338
+EIA Distillate Stocks Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Gasoline Production Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Heating Oil Stocks Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Gasoline Stocks Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Refinery Crude Runs Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Crude Oil Imports Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Crude Oil Stocks Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Cushing Crude Oil Stocks Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Distillate Fuel Production Change,,16/Dec,US,2022-12-21 15:30:00,,,,,
+EIA Distillate Stocks Change,,Dec/16,US,2022-12-21 15:30:00,-0.242,1.364,0.336,-1.606,117.742
+EIA Gasoline Production Change,,Dec/16,US,2022-12-21 15:30:00,0.358,0.129,,0.229,177.519
+EIA Heating Oil Stocks Change,,Dec/16,US,2022-12-21 15:30:00,-0.239,0.504,,-0.743,147.421
+EIA Gasoline Stocks Change,,Dec/16,US,2022-12-21 15:30:00,2.53,4.496,2.14,-1.966,43.728
+EIA Refinery Crude Runs Change,,Dec/16,US,2022-12-21 15:30:00,-0.15,-0.459,,0.309,-67.32
+EIA Crude Oil Imports Change,,Dec/16,US,2022-12-21 15:30:00,-1.092,-0.031,,-1.061,-3422.581
+EIA Crude Oil Stocks Change,,Dec/16,US,2022-12-21 15:30:00,-5.894,10.231,-1.657,-16.125,157.609
+EIA Cushing Crude Oil Stocks Change,,Dec/16,US,2022-12-21 15:30:00,0.853,0.426,,0.427,100.235
+EIA Distillate Fuel Production Change,,Dec/16,US,2022-12-21 15:30:00,-0.066,-0.164,,0.098,-59.756
+Existing Home Sales,,Nov,US,2022-12-21 15:00:00,4.09,4.43,4.2,-0.34,7.675
+Existing Home Sales,mom,Nov,US,2022-12-21 15:00:00,-7.7,-5.9,-5.4,-1.8,-30.508
+CB Consumer Confidence,,Dec,US,2022-12-21 15:00:00,108.3,101.4,101,6.9,6.805
+Current Account,,Q3,US,2022-12-21 13:30:00,-217.1,-238.7,-222,21.6,-9.049
+MBA Mortgage Market Index,,16/Dec,US,2022-12-21 12:00:00,,,,,
+MBA Mortgage Applications,,16/Dec,US,2022-12-21 12:00:00,,,,,
+MBA Purchase Index,,16/Dec,US,2022-12-21 12:00:00,,,,,
+MBA Mortgage Refinance Index,,16/Dec,US,2022-12-21 12:00:00,,,,,
+MBA 30-Year Mortgage Rate,,16/Dec,US,2022-12-21 12:00:00,,,,,
+MBA Mortgage Refinance Index,,Dec/16,US,2022-12-21 12:00:00,371.4,350.5,,20.9,5.963
+MBA Mortgage Applications,,Dec/16,US,2022-12-21 12:00:00,0.9,3.2,,-2.3,71.875
+MBA Purchase Index,,Dec/16,US,2022-12-21 12:00:00,182.5,182.6,,-0.1,0.055
+MBA Mortgage Market Index,,Dec/16,US,2022-12-21 12:00:00,212.5,210.7,,1.8,0.854
+MBA 30-Year Mortgage Rate,,Dec/16,US,2022-12-21 12:00:00,6.34,6.42,,-0.08,1.246
+International Monetary Market (IMM) Date,,,US,2022-12-21 00:00:00,,,,,
+API Crude Oil Stock Change,,16/Dec,US,2022-12-20 21:30:00,,,,,
+API Crude Oil Stock Change,,Dec/16,US,2022-12-20 21:30:00,-3.069,7.819,-0.167,-10.888,139.251
+Redbook,yoy,17/Dec,US,2022-12-20 13:55:00,,,,,
+Redbook,yoy,Dec/17,US,2022-12-20 13:55:00,7.6,5.9,,1.7,28.814
+Building Permits,,Nov,US,2022-12-20 13:30:00,1.342,1.512,1.485,-0.17,11.243
+Housing Starts,,Nov,US,2022-12-20 13:30:00,1.427,1.434,1.4,-0.007,0.488
+Housing Starts,mom,Nov,US,2022-12-20 13:30:00,-0.5,-2.1,-1.5,1.6,-76.19
+Building Permits,mom,Nov,US,2022-12-20 13:30:00,-11.2,-3.3,-1.8,-7.9,-239.394
+3-Month Bill Auction,,,US,2022-12-19 16:30:00,4.29,4.27,,0.02,0.468
+6-Month Bill Auction,,,US,2022-12-19 16:30:00,4.55,4.63,,-0.08,1.728
+NAHB Housing Market Index,,Dec,US,2022-12-19 15:00:00,31,33,34,-2,6.061
+Baker Hughes Oil Rig Count,,16/Dec,US,2022-12-16 18:00:00,,,,,
+Baker Hughes Total Rig Count,,16/Dec,US,2022-12-16 18:00:00,,,,,
+Baker Hughes Oil Rig Count,,Dec/16,US,2022-12-16 18:00:00,620,625,,-5,0.8
+Baker Hughes Total Rig Count,,Dec/16,US,2022-12-16 18:00:00,776,780,,-4,0.513
+S&P Global Services PMI,,Dec,US,2022-12-16 14:45:00,44.4,46.2,46.8,-1.8,3.896
+S&P Global Composite PMI,,Dec,US,2022-12-16 14:45:00,44.6,46.4,48,-1.8,3.879
+S&P Global Manufacturing PMI,,Dec,US,2022-12-16 14:45:00,46.2,47.7,47.7,-1.5,3.145
+Foreign Bond Investment,,Oct,US,2022-12-15 21:00:00,61.9,60.4,,1.5,2.483
+Overall Net Capital Flows,,Oct,US,2022-12-15 21:00:00,179.9,30.4,,149.5,491.776
+Net Long-term TIC Flows,,Oct,US,2022-12-15 21:00:00,67.8,117.7,,-49.9,42.396
+8-Week Bill Auction,,,US,2022-12-15 16:30:00,4.06,3.94,,0.12,3.046
+4-Week Bill Auction,,,US,2022-12-15 16:30:00,3.78,3.65,,0.13,3.562
+EIA Natural Gas Stocks Change,,09/Dec,US,2022-12-15 15:30:00,,,,,
+EIA Natural Gas Stocks Change,,Dec/09,US,2022-12-15 15:30:00,-50,-21,-45,-29,-138.095
+Retail Inventories Ex Autos,mom,Oct,US,2022-12-15 15:00:00,-0.5,-0.9,-0.4,0.4,-44.444
+NAHB Housing Market Index,,Dec,US,2022-12-15 15:00:00,,,,,
+Business Inventories,mom,Oct,US,2022-12-15 15:00:00,0.3,0.2,0.4,0.1,50
+Manufacturing Production,yoy,Nov,US,2022-12-15 14:15:00,1.2,2.4,1.9,-1.2,50
+Manufacturing Production,mom,Nov,US,2022-12-15 14:15:00,-0.6,0.3,-0.1,-0.9,300
+Industrial Production,mom,Nov,US,2022-12-15 14:15:00,-0.2,-0.1,0.1,-0.1,-100
+Industrial Production,yoy,Nov,US,2022-12-15 14:15:00,2.5,3.3,2.7,-0.8,24.242
+Capacity Utilization,,Nov,US,2022-12-15 14:15:00,79.7,79.9,79.8,-0.2,0.25
+Philadelphia Fed Manufacturing Index,,Dec,US,2022-12-15 13:30:00,-13.8,-19.4,-10,5.6,-28.866
+Retail Sales Ex Autos,mom,Nov,US,2022-12-15 13:30:00,-0.2,1.2,0.2,-1.4,116.667
+Retail Sales,yoy,Nov,US,2022-12-15 13:30:00,6.5,8.3,7.9,-1.8,21.687
+Retail Sales,mom,Nov,US,2022-12-15 13:30:00,-0.6,1.3,-0.1,-1.9,146.154
+NY Empire State Manufacturing Index,,Dec,US,2022-12-15 13:30:00,-11.2,4.5,-1,-15.7,348.889
+Retail Sales Ex Gas/Autos,mom,Nov,US,2022-12-15 13:30:00,-0.2,0.8,0.8,-1,125
+Continuing Jobless Claims,,03/Dec,US,2022-12-15 13:30:00,,,,,
+Jobless Claims 4-week Average,,10/Dec,US,2022-12-15 13:30:00,,,,,
+Initial Jobless Claims,,10/Dec,US,2022-12-15 13:30:00,,,,,
+Philly Fed Employment,,Dec,US,2022-12-15 13:30:00,-1.8,7.1,8,-8.9,125.352
+Philly Fed CAPEX Index,,Dec,US,2022-12-15 13:30:00,18,6.4,6.5,11.6,181.25
+Philly Fed Business Conditions,,Dec,US,2022-12-15 13:30:00,3.8,-7.1,-3,10.9,-153.521
+Philly Fed Prices Paid,,Dec,US,2022-12-15 13:30:00,26.4,35.3,34,-8.9,25.212
+Philly Fed New Orders,,Dec,US,2022-12-15 13:30:00,-25.8,-16.2,-5,-9.6,-59.259
+Continuing Jobless Claims,,Dec/03,US,2022-12-15 13:30:00,1671,1670,1671,1,0.06
+Jobless Claims 4-week Average,,Dec/10,US,2022-12-15 13:30:00,227.25,230.25,233,-3,1.303
+Initial Jobless Claims,,Dec/10,US,2022-12-15 13:30:00,211,231,230,-20,8.658
+Fed Press Conference,,,US,2022-12-14 19:30:00,,,,,
+Fed Press Conference,,,US,2022-12-14 19:30:00,,,,,
+FOMC Economic Projections,,,US,2022-12-14 19:00:00,,,,,
+Interest Rate Projection - Current,,,US,2022-12-14 19:00:00,4.4,4.4,,,
+Interest Rate Projection - 1st Yr,,,US,2022-12-14 19:00:00,5.1,4.6,,0.5,10.87
+Interest Rate Projection - 2nd Yr,,,US,2022-12-14 19:00:00,4.1,3.9,,0.2,5.128
+Interest Rate Projection - 3rd Yr,,,US,2022-12-14 19:00:00,3.1,2.9,,0.2,6.897
+Interest Rate Projection - Longer,,,US,2022-12-14 19:00:00,2.5,2.5,,,
+Fed Interest Rate Decision,,,US,2022-12-14 19:00:00,4.5,4,4.5,0.5,12.5
+Fed Interest Rate Decision,,,US,2022-12-14 19:00:00,,4,4.5,,
+Interest Rate Projection - 3rd Yr,,,US,2022-12-14 19:00:00,,2.9,,,
+Interest Rate Projection - 1st Yr,,,US,2022-12-14 19:00:00,,4.6,,,
+Interest Rate Projection - Current,,,US,2022-12-14 19:00:00,,4.4,,,
+Interest Rate Projection - 2nd Yr,,,US,2022-12-14 19:00:00,,3.9,,,
+Interest Rate Projection - Longer,,,US,2022-12-14 19:00:00,,2.5,,,
+FOMC Economic Projections,,,US,2022-12-14 19:00:00,,,,,
+17-Week Bill Auction,,,US,2022-12-14 16:30:00,4.44,4.4,,0.04,0.909
+17-Week Bill Auction,,,US,2022-12-14 16:30:00,,4.4,,,
+EIA Refinery Crude Runs Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Crude Oil Imports Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Crude Oil Stocks Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Gasoline Production Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Heating Oil Stocks Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Cushing Crude Oil Stocks Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Distillate Fuel Production Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Distillate Stocks Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Gasoline Stocks Change,,09/Dec,US,2022-12-14 15:30:00,,,,,
+EIA Refinery Crude Runs Change,,Dec/09,US,2022-12-14 15:30:00,-0.459,-0.053,,-0.406,-766.038
+EIA Crude Oil Imports Change,,Dec/09,US,2022-12-14 15:30:00,-0.031,1.493,,-1.524,102.076
+EIA Crude Oil Stocks Change,,Dec/09,US,2022-12-14 15:30:00,10.231,-5.187,-3.595,15.418,-297.243
+EIA Gasoline Production Change,,Dec/09,US,2022-12-14 15:30:00,0.129,-0.295,,0.424,-143.729
+EIA Heating Oil Stocks Change,,Dec/09,US,2022-12-14 15:30:00,0.504,-0.705,,1.209,-171.489
+EIA Cushing Crude Oil Stocks Change,,Dec/09,US,2022-12-14 15:30:00,0.426,-0.373,-0.715,0.799,-214.209
+EIA Distillate Fuel Production Change,,Dec/09,US,2022-12-14 15:30:00,-0.164,0.021,,-0.185,880.952
+EIA Distillate Stocks Change,,Dec/09,US,2022-12-14 15:30:00,1.364,6.159,2.517,-4.795,77.854
+EIA Gasoline Stocks Change,,Dec/09,US,2022-12-14 15:30:00,4.496,5.32,2.714,-0.824,15.489
+Import Prices,yoy,Nov,US,2022-12-14 13:30:00,2.7,4.1,3.9,-1.4,34.146
+Import Prices,mom,Nov,US,2022-12-14 13:30:00,-0.6,-0.4,-0.5,-0.2,-50
+Export Prices,mom,Nov,US,2022-12-14 13:30:00,-0.3,-0.4,-0.4,0.1,-25
+Export Prices,yoy,Nov,US,2022-12-14 13:30:00,6.3,7.4,5.4,-1.1,14.865
+MBA 30-Year Mortgage Rate,,09/Dec,US,2022-12-14 12:00:00,,,,,
+MBA Mortgage Applications,,09/Dec,US,2022-12-14 12:00:00,,,,,
+MBA Mortgage Refinance Index,,09/Dec,US,2022-12-14 12:00:00,,,,,
+MBA Purchase Index,,09/Dec,US,2022-12-14 12:00:00,,,,,
+MBA Mortgage Market Index,,09/Dec,US,2022-12-14 12:00:00,,,,,
+MBA Mortgage Market Index,,Dec/09,US,2022-12-14 12:00:00,210.7,204.2,,6.5,3.183
+MBA Mortgage Applications,,Dec/09,US,2022-12-14 12:00:00,3.2,-1.9,,5.1,-268.421
+MBA Mortgage Refinance Index,,Dec/09,US,2022-12-14 12:00:00,350.5,340.8,,9.7,2.846
+MBA Purchase Index,,Dec/09,US,2022-12-14 12:00:00,182.6,175.5,,7.1,4.046
+MBA 30-Year Mortgage Rate,,Dec/09,US,2022-12-14 12:00:00,6.42,6.41,,0.01,0.156
+API Crude Oil Stock Change,,09/Dec,US,2022-12-13 21:30:00,,,,,
+API Crude Oil Stock Change,,Dec/09,US,2022-12-13 21:30:00,7.819,-6.426,-3.913,14.245,-221.678
+30-Year Bond Auction,,,US,2022-12-13 18:00:00,3.513,4.08,,-0.567,13.897
+30-Year Bond Auction,,,US,2022-12-13 18:00:00,,4.08,,,
+IBD/TIPP Economic Optimism,,Dec,US,2022-12-13 15:00:00,42.9,40.4,41.3,2.5,6.188
+Redbook,yoy,10/Dec,US,2022-12-13 13:55:00,,,,,
+Redbook,yoy,Dec/10,US,2022-12-13 13:55:00,5.9,5.7,,0.2,3.509
+Core Inflation Rate,mom,Nov,US,2022-12-13 13:30:00,0.2,0.3,0.3,-0.1,33.333
+Inflation Rate,yoy,Nov,US,2022-12-13 13:30:00,7.1,7.7,7.3,-0.6,7.792
+Core Inflation Rate,yoy,Nov,US,2022-12-13 13:30:00,6,6.3,6.1,-0.3,4.762
+Inflation Rate,mom,Nov,US,2022-12-13 13:30:00,0.1,0.4,0.3,-0.3,75
+CPI,,Nov,US,2022-12-13 13:30:00,297.711,298.012,298.045,-0.301,0.101
+CPI,,Nov,US,2022-12-13 12:30:00,,298.012,299,,
+NFIB Business Optimism Index,,Nov,US,2022-12-13 11:00:00,91.9,91.3,90.4,0.6,0.657
+Monthly Budget Statement,,Nov,US,2022-12-12 19:00:00,-249,-88,-248,-161,-182.955
+10-Year Note Auction,,,US,2022-12-12 18:00:00,3.625,4.14,,-0.515,12.44
+3-Year Note Auction,,,US,2022-12-12 18:00:00,,4.605,,,
+3-Month Bill Auction,,,US,2022-12-12 18:00:00,4.27,4.27,,,
+10-Year Note Auction,,,US,2022-12-12 18:00:00,,4.14,,,
+3-Month Bill Auction,,,US,2022-12-12 18:00:00,,4.27,,,
+3-Year Note Auction,,,US,2022-12-12 18:00:00,,4.605,,,
+6-Month Bill Auction,,,US,2022-12-12 16:30:00,4.63,4.57,,0.06,1.313
+3-Month Bill Auction,,,US,2022-12-12 16:30:00,,4.27,,,
+3-Year Note Auction,,,US,2022-12-12 16:30:00,4.093,4.605,,-0.512,11.118
+6-Month Bill Auction,,,US,2022-12-12 16:30:00,,4.57,,,
+3-Year Note Auction,,,US,2022-12-12 16:30:00,,4.605,,,
+3-Month Bill Auction,,,US,2022-12-12 16:30:00,,4.27,,,
+Consumer Inflation Expectations,,Nov,US,2022-12-12 16:00:00,5.2,5.9,5.8,-0.7,11.864
+Baker Hughes Oil Rig Count,,09/Dec,US,2022-12-09 18:00:00,,,,,
+Baker Hughes Total Rig Count,,09/Dec,US,2022-12-09 18:00:00,,,,,
+Baker Hughes Oil Rig Count,,Dec/09,US,2022-12-09 18:00:00,625,627,,-2,0.319
+Baker Hughes Total Rig Count,,Dec/09,US,2022-12-09 18:00:00,780,784,,-4,0.51
+WASDE Report,,,US,2022-12-09 17:00:00,,,,,
+Fed Quarterly Financial Accounts,,,US,2022-12-09 17:00:00,,,,,
+Michigan Inflation Expectations,,Dec,US,2022-12-09 15:00:00,4.6,4.9,4.8,-0.3,6.122
+Michigan Consumer Sentiment,,Dec,US,2022-12-09 15:00:00,59.1,56.8,56.9,2.3,4.049
+Wholesale Inventories,mom,Oct,US,2022-12-09 15:00:00,0.5,0.6,0.8,-0.1,16.667
+Michigan Consumer Expectations,,Dec,US,2022-12-09 15:00:00,58.4,55.6,56,2.8,5.036
+Michigan 5 Year Inflation Expectations,,Dec,US,2022-12-09 15:00:00,3,3,2.9,,
+Michigan Current Conditions,,Dec,US,2022-12-09 15:00:00,60.2,58.8,58,1.4,2.381
+PPI,mom,Nov,US,2022-12-09 13:30:00,0.3,0.3,0.2,,
+PPI,yoy,Nov,US,2022-12-09 13:30:00,7.4,8.1,7.2,-0.7,8.642
+Core PPI,yoy,Nov,US,2022-12-09 13:30:00,6.2,6.7,5.9,-0.5,7.463
+Core PPI,mom,Nov,US,2022-12-09 13:30:00,0.4,0.1,0.2,0.3,300
+4-Week Bill Auction,,,US,2022-12-08 16:30:00,3.65,3.95,,-0.3,7.595
+8-Week Bill Auction,,,US,2022-12-08 16:30:00,3.94,4.08,,-0.14,3.431
+4-Week Bill Auction,,,US,2022-12-08 16:30:00,,3.95,,,
+8-Week Bill Auction,,,US,2022-12-08 16:30:00,,4.08,,,
+EIA Natural Gas Stocks Change,,02/Dec,US,2022-12-08 15:30:00,,,,,
+EIA Natural Gas Stocks Change,,Dec/02,US,2022-12-08 15:30:00,-21,-81,-31,60,-74.074
+Initial Jobless Claims,,03/Dec,US,2022-12-08 13:30:00,,,,,
+Jobless Claims 4-week Average,,03/Dec,US,2022-12-08 13:30:00,,,,,
+Continuing Jobless Claims,,26/Nov,US,2022-12-08 13:30:00,,,,,
+Initial Jobless Claims,,Dec/03,US,2022-12-08 13:30:00,230,226,230,4,1.77
+Continuing Jobless Claims,,Nov/26,US,2022-12-08 13:30:00,1671,1609,1600,62,3.853
+Jobless Claims 4-week Average,,Dec/03,US,2022-12-08 13:30:00,230,229,231,1,0.437
+Consumer Credit Change,,Oct,US,2022-12-07 20:00:00,27.08,25.82,28.3,1.26,4.88
+17-Week Bill Auction,,,US,2022-12-07 16:30:00,4.4,4.43,,-0.03,0.677
+17-Week Bill Auction,,,US,2022-12-07 16:30:00,,4.43,,,
+EIA Refinery Crude Runs Change,,02/Dec,US,2022-12-07 15:30:00,,0.228,,,
+EIA Crude Oil Imports Change,,02/Dec,US,2022-12-07 15:30:00,,-1.732,,,
+EIA Crude Oil Stocks Change,,02/Dec,US,2022-12-07 15:30:00,,-12.58,,,
+EIA Gasoline Production Change,,02/Dec,US,2022-12-07 15:30:00,,0.196,,,
+EIA Heating Oil Stocks Change,,02/Dec,US,2022-12-07 15:30:00,,-0.729,,,
+EIA Cushing Crude Oil Stocks Change,,02/Dec,US,2022-12-07 15:30:00,,-0.415,,,
+EIA Distillate Fuel Production Change,,02/Dec,US,2022-12-07 15:30:00,,0.2,,,
+EIA Distillate Stocks Change,,02/Dec,US,2022-12-07 15:30:00,,3.547,,,
+EIA Gasoline Stocks Change,,02/Dec,US,2022-12-07 15:30:00,,2.769,,,
+EIA Distillate Fuel Production Change,,Dec/02,US,2022-12-07 15:30:00,0.021,0.2,,-0.179,89.5
+EIA Crude Oil Imports Change,,Dec/02,US,2022-12-07 15:30:00,1.493,-1.732,,3.225,-186.201
+EIA Crude Oil Stocks Change,,Dec/02,US,2022-12-07 15:30:00,-5.187,-12.58,-3.305,7.393,-58.768
+EIA Gasoline Production Change,,Dec/02,US,2022-12-07 15:30:00,-0.295,0.196,,-0.491,250.51
+EIA Heating Oil Stocks Change,,Dec/02,US,2022-12-07 15:30:00,-0.705,-0.729,,0.024,-3.292
+EIA Cushing Crude Oil Stocks Change,,Dec/02,US,2022-12-07 15:30:00,-0.373,-0.415,,0.042,-10.12
+EIA Distillate Stocks Change,,Dec/02,US,2022-12-07 15:30:00,6.159,3.547,2.208,2.612,73.64
+EIA Refinery Crude Runs Change,,Dec/02,US,2022-12-07 15:30:00,-0.053,0.228,,-0.281,123.246
+EIA Gasoline Stocks Change,,Dec/02,US,2022-12-07 15:30:00,5.32,2.769,2.707,2.551,92.127
+Nonfarm Productivity,qoq,Q3,US,2022-12-07 13:30:00,0.8,-4.1,0.6,4.9,-119.512
+Unit Labour Costs,qoq,Q3,US,2022-12-07 13:30:00,2.4,8.9,3.1,-6.5,73.034
+MBA Mortgage Applications,,02/Dec,US,2022-12-07 12:00:00,,-0.8,,,
+MBA Mortgage Refinance Index,,02/Dec,US,2022-12-07 12:00:00,,325.5,,,
+MBA Purchase Index,,02/Dec,US,2022-12-07 12:00:00,,181,,,
+MBA Mortgage Market Index,,02/Dec,US,2022-12-07 12:00:00,,208.1,,,
+MBA 30-Year Mortgage Rate,,02/Dec,US,2022-12-07 12:00:00,,6.49,,,
+MBA Purchase Index,,Dec/02,US,2022-12-07 12:00:00,175.5,181,,-5.5,3.039
+MBA 30-Year Mortgage Rate,,Dec/02,US,2022-12-07 12:00:00,6.41,6.49,,-0.08,1.233
+MBA Mortgage Refinance Index,,Dec/02,US,2022-12-07 12:00:00,340.8,325.5,,15.3,4.7
+MBA Mortgage Applications,,Dec/02,US,2022-12-07 12:00:00,-1.9,-0.8,,-1.1,-137.5
+MBA Mortgage Market Index,,Dec/02,US,2022-12-07 12:00:00,204.2,208.1,,-3.9,1.874
+Total Vehicle Sales,,Nov,US,2022-12-07 00:00:00,14.1,14.9,,-0.8,5.369
+API Crude Oil Stock Change,,02/Dec,US,2022-12-06 21:30:00,,-7.85,,,
+API Crude Oil Stock Change,,Dec/02,US,2022-12-06 21:30:00,-6.426,-7.85,-3.884,1.424,-18.14
+LMI Logistics Managers Index Current,,Nov,US,2022-12-06 15:30:00,,57.5,,,
+LMI Logistics Managers Index Current,,Nov,US,2022-12-06 15:00:00,53.6,57.5,,-3.9,6.783
+Redbook,yoy,03/Dec,US,2022-12-06 13:55:00,,10.4,,,
+Redbook,yoy,Dec/03,US,2022-12-06 13:55:00,5.7,10.4,,-4.7,45.192
+Balance of Trade,,Oct,US,2022-12-06 13:30:00,-78.2,-74.1,-80,-4.1,-5.533
+Imports,,Oct,US,2022-12-06 13:30:00,334.8,332.6,330,2.2,0.661
+Exports,,Oct,US,2022-12-06 13:30:00,256.6,258.5,257,-1.9,0.735
+LMI Logistics Managers Index Current,,Nov,US,2022-12-06 10:30:00,,57.5,,,
+Total Vehicle Sales,,Nov,US,2022-12-06 00:00:00,,14.9,,,
+6-Month Bill Auction,,,US,2022-12-05 16:30:00,4.57,4.55,,0.02,0.44
+3-Month Bill Auction,,,US,2022-12-05 16:30:00,4.27,4.285,,-0.015,0.35
+ISM Non-Manufacturing Business Activity,,Nov,US,2022-12-05 15:00:00,64.7,55.7,54,9,16.158
+ISM Non-Manufacturing Prices,,Nov,US,2022-12-05 15:00:00,70,70.7,70.2,-0.7,0.99
+Factory Orders,mom,Oct,US,2022-12-05 15:00:00,1,0.3,0.7,0.7,233.333
+Factory Orders ex Transportation,,Oct,US,2022-12-05 15:00:00,0.8,-0.2,0.1,1,-500
+ISM Non-Manufacturing PMI,,Nov,US,2022-12-05 15:00:00,56.5,54.4,53.3,2.1,3.86
+ISM Non-Manufacturing Employment,,Nov,US,2022-12-05 15:00:00,51.5,49.1,49.5,2.4,4.888
+ISM Non-Manufacturing New Orders,,Nov,US,2022-12-05 15:00:00,56,56.5,54,-0.5,0.885
+S&P Global Services PMI,,Nov,US,2022-12-05 14:45:00,46.2,47.8,46.1,-1.6,3.347
+S&P Global Composite PMI,,Nov,US,2022-12-05 14:45:00,46.4,48.2,46.3,-1.8,3.734
+Total Vehicle Sales,,Nov,US,2022-12-05 05:00:00,,14.9,,,
+Total Vehicle Sales,,Nov,US,2022-12-05 00:00:00,,14.9,,,
+Baker Hughes Oil Rig Count,,02/Dec,US,2022-12-02 18:00:00,627,627,,,
+Baker Hughes Total Rig Count,,02/Dec,US,2022-12-02 18:00:00,784,784,,,
+Fed Evans Speech,,,US,2022-12-02 15:15:00,,,,,
+Participation Rate,,Nov,US,2022-12-02 13:30:00,62.1,62.2,62.2,-0.1,0.161
+Average Hourly Earnings,mom,Nov,US,2022-12-02 13:30:00,0.6,0.5,0.3,0.1,20
+Government Payrolls,,Nov,US,2022-12-02 13:30:00,42,36,18,6,16.667
+Nonfarm Payrolls Private,,Nov,US,2022-12-02 13:30:00,221,248,190,-27,10.887
+Average Weekly Hours,,Nov,US,2022-12-02 13:30:00,34.4,34.5,34.5,-0.1,0.29
+Non Farm Payrolls,,Nov,US,2022-12-02 13:30:00,263,284,200,-21,7.394
+Unemployment Rate,,Nov,US,2022-12-02 13:30:00,3.7,3.7,3.7,,
+Average Hourly Earnings,yoy,Nov,US,2022-12-02 13:30:00,5.1,4.9,4.6,0.2,4.082
+Manufacturing Payrolls,,Nov,US,2022-12-02 13:30:00,14,36,20,-22,61.111
+Total Vehicle Sales,,Nov,US,2022-12-02 05:00:00,,14.9,,,
+Total Vehicle Sales,,Nov,US,2022-12-02 00:00:00,,14.9,,,
+Fed S. Barr Speech,,,US,2022-12-01 20:00:00,,,,,
+4-Week Bill Auction,,,US,2022-12-01 16:30:00,3.95,3.97,,-0.02,0.504
+8-Week Bill Auction,,,US,2022-12-01 16:30:00,4.08,4.12,,-0.04,0.971
+EIA Natural Gas Stocks Change,,25/Nov,US,2022-12-01 15:30:00,-81,-80,-84,-1,-1.25
+ISM Manufacturing New Orders,,Nov,US,2022-12-01 15:00:00,47.2,49.2,49.5,-2,4.065
+ISM Manufacturing PMI,,Nov,US,2022-12-01 15:00:00,49,50.2,49.8,-1.2,2.39
+Construction Spending,mom,Oct,US,2022-12-01 15:00:00,-0.3,0.1,-0.3,-0.4,400
+ISM Manufacturing Employment,,Nov,US,2022-12-01 15:00:00,48.4,50,49.1,-1.6,3.2
+ISM Manufacturing Prices,,Nov,US,2022-12-01 15:00:00,43,46.6,47.5,-3.6,7.725
+S&P Global Manufacturing PMI,,Nov,US,2022-12-01 14:45:00,47.7,50.4,47.6,-2.7,5.357
+Fed Bowman Speech,,,US,2022-12-01 14:30:00,,,,,
+Fed Logan Speech,,,US,2022-12-01 14:25:00,,,,,
+PCE Price Index,yoy,Oct,US,2022-12-01 13:30:00,6,6.3,5.9,-0.3,4.762
+Personal Income,mom,Oct,US,2022-12-01 13:30:00,0.7,0.4,0.4,0.3,75
+Personal Spending,mom,Oct,US,2022-12-01 13:30:00,0.8,0.6,0.8,0.2,33.333
+PCE Price Index,mom,Oct,US,2022-12-01 13:30:00,0.3,0.3,0.3,,
+Core PCE Price Index,yoy,Oct,US,2022-12-01 13:30:00,5,5.2,5,-0.2,3.846
+Core PCE Price Index,mom,Oct,US,2022-12-01 13:30:00,0.2,0.5,0.3,-0.3,60
+Continuing Jobless Claims,,19/Nov,US,2022-12-01 13:30:00,1608,1551,1573,57,3.675
+Jobless Claims 4-week Average,,26/Nov,US,2022-12-01 13:30:00,228.75,227,230,1.75,0.771
+Initial Jobless Claims,,26/Nov,US,2022-12-01 13:30:00,225,241,235,-16,6.639
+Challenger Job Cuts,,Nov,US,2022-12-01 12:30:00,76.835,33.843,35,42.992,127.034
+Fed Beige Book,,,US,2022-11-30 19:00:00,,,,,
+Fed Chair Powell Speech,,,US,2022-11-30 18:30:00,,,,,
+Fed Cook Speech,,,US,2022-11-30 17:35:00,,,,,
+17-Week Bill Auction,,,US,2022-11-30 16:30:00,4.43,4.4,,0.03,0.682
+EIA Gasoline Stocks Change,,25/Nov,US,2022-11-30 15:30:00,2.769,3.058,1.625,-0.289,9.451
+EIA Refinery Crude Runs Change,,25/Nov,US,2022-11-30 15:30:00,0.228,0.258,,-0.03,11.628
+EIA Crude Oil Imports Change,,25/Nov,US,2022-11-30 15:30:00,-1.732,1.124,,-2.856,254.093
+EIA Crude Oil Stocks Change,,25/Nov,US,2022-11-30 15:30:00,-12.58,-3.691,-2.758,-8.889,-240.829
+EIA Cushing Crude Oil Stocks Change,,25/Nov,US,2022-11-30 15:30:00,-0.415,-0.887,,0.472,-53.213
+EIA Distillate Fuel Production Change,,25/Nov,US,2022-11-30 15:30:00,0.2,0.014,,0.186,1328.571
+EIA Distillate Stocks Change,,25/Nov,US,2022-11-30 15:30:00,3.547,1.718,1.457,1.829,106.461
+EIA Gasoline Production Change,,25/Nov,US,2022-11-30 15:30:00,0.196,-0.625,,0.821,-131.36
+EIA Heating Oil Stocks Change,,25/Nov,US,2022-11-30 15:30:00,-0.729,0.961,,-1.69,175.858
+Pending Home Sales,yoy,Oct,US,2022-11-30 15:00:00,-37,-29.9,-24,-7.1,-23.746
+JOLTs Job Openings,,Oct,US,2022-11-30 15:00:00,10.334,10.687,10.3,-0.353,3.303
+JOLTs Job Quits,,Oct,US,2022-11-30 15:00:00,4.026,4.06,4.05,-0.034,0.837
+Pending Home Sales,mom,Oct,US,2022-11-30 15:00:00,-4.6,-8.7,-5,4.1,-47.126
+Chicago PMI,,Nov,US,2022-11-30 14:45:00,37.2,45.2,47,-8,17.699
+Retail Inventories Ex Autos,mom,Oct,US,2022-11-30 13:30:00,-0.4,-0.1,-0.2,-0.3,-300
+PCE Prices,qoq,Q3,US,2022-11-30 13:30:00,4.3,7.3,4.2,-3,41.096
+Core PCE Prices,qoq,Q3,US,2022-11-30 13:30:00,4.6,4.7,4.5,-0.1,2.128
+Wholesale Inventories,mom,Oct,US,2022-11-30 13:30:00,0.8,0.6,0.5,0.2,33.333
+Goods Trade Balance,,Oct,US,2022-11-30 13:30:00,-99,-91.91,-94,-7.09,-7.714
+GDP Growth Rate,qoq,Q3,US,2022-11-30 13:30:00,2.9,-0.6,2.7,3.5,-583.333
+GDP Sales,qoq,Q3,US,2022-11-30 13:30:00,4,1.3,3.3,2.7,207.692
+Corporate Profits,qoq,Q3,US,2022-11-30 13:30:00,-0.2,6.2,3.1,-6.4,103.226
+GDP Price Index,qoq,Q3,US,2022-11-30 13:30:00,4.3,9,4.1,-4.7,52.222
+Real Consumer Spending,qoq,Q3,US,2022-11-30 13:30:00,1.7,2,1.4,-0.3,15
+ADP Employment Change,,Nov,US,2022-11-30 13:15:00,127,239,200,-112,46.862
+MBA Mortgage Refinance Index,,25/Nov,US,2022-11-30 12:00:00,325.5,373.6,,-48.1,12.875
+MBA Mortgage Market Index,,25/Nov,US,2022-11-30 12:00:00,208.1,209.8,,-1.7,0.81
+MBA 30-Year Mortgage Rate,,25/Nov,US,2022-11-30 12:00:00,6.49,6.67,,-0.18,2.699
+MBA Mortgage Applications,,25/Nov,US,2022-11-30 12:00:00,-0.8,2.2,,-3,136.364
+MBA Purchase Index,,25/Nov,US,2022-11-30 12:00:00,181,174.4,,6.6,3.784
+API Crude Oil Stock Change,,25/Nov,US,2022-11-29 21:30:00,-7.85,-4.819,-2.487,-3.031,-62.897
+52-Week Bill Auction,,,US,2022-11-29 16:30:00,4.555,4.505,,0.05,1.11
+Dallas Fed Services Index,,Nov,US,2022-11-29 15:30:00,-11,-13.6,-15,2.6,-19.118
+Dallas Fed Services Revenues Index,,Nov,US,2022-11-29 15:30:00,5.5,8.5,7,-3,35.294
+CB Consumer Confidence,,Nov,US,2022-11-29 15:00:00,100.2,102.2,100,-2,1.957
+House Price Index,mom,Sep,US,2022-11-29 14:00:00,0.1,-0.7,-0.9,0.8,-114.286
+House Price Index,yoy,Sep,US,2022-11-29 14:00:00,11,11.9,10.5,-0.9,7.563
+S&P/Case-Shiller Home Price,mom,Sep,US,2022-11-29 14:00:00,-1.5,-1.6,-0.9,0.1,-6.25
+House Price Index,,Sep,US,2022-11-29 14:00:00,392.3,392,388,0.3,0.077
+S&P/Case-Shiller Home Price,yoy,Sep,US,2022-11-29 14:00:00,10.4,13.1,10.8,-2.7,20.611
+Redbook,yoy,26/Nov,US,2022-11-29 13:55:00,10.4,7.5,,2.9,38.667
+Fed Williams Speech,,,US,2022-11-28 17:00:00,,,,,
+Fed Bullard Speech,,,US,2022-11-28 17:00:00,,,,,
+6-Month Bill Auction,,,US,2022-11-28 16:30:00,4.55,4.52,,0.03,0.664
+3-Month Bill Auction,,,US,2022-11-28 16:30:00,4.285,4.22,,0.065,1.54
+Dallas Fed Manufacturing Index,,Nov,US,2022-11-28 15:30:00,-14.4,-19.4,-20.9,5,-25.773
+Baker Hughes Oil Rig Count,,25/Nov,US,2022-11-25 18:00:00,,,,,
+Baker Hughes Total Rig Count,,25/Nov,US,2022-11-25 18:00:00,,,,,
+8-Week Bill Auction,,,US,2022-11-24 16:30:00,,,,,
+4-Week Bill Auction,,,US,2022-11-24 16:30:00,,,,,
+Continuing Jobless Claims,,12/Nov,US,2022-11-24 13:30:00,,,,,
+Jobless Claims 4-week Average,,19/Nov,US,2022-11-24 13:30:00,,,,,
+Initial Jobless Claims,,19/Nov,US,2022-11-24 13:30:00,,,,,
+Thanksgiving Day,,,US,2022-11-24 00:00:00,,,,,
+FOMC Minutes,,,US,2022-11-23 19:00:00,,,,,
+Baker Hughes Total Rig Count,,25/Nov,US,2022-11-23 18:00:00,784,782,,2,0.256
+Baker Hughes Oil Rig Count,,25/Nov,US,2022-11-23 18:00:00,627,623,,4,0.642
+EIA Natural Gas Stocks Change,,18/Nov,US,2022-11-23 17:00:00,-80,64,-87,-144,225
+4-Week Bill Auction,,,US,2022-11-23 16:30:00,3.97,3.58,,0.39,10.894
+8-Week Bill Auction,,,US,2022-11-23 16:30:00,4.12,4.02,,0.1,2.488
+17-Week Bill Auction,,,US,2022-11-23 16:30:00,4.4,4.32,,0.08,1.852
+EIA Distillate Stocks Change,,18/Nov,US,2022-11-23 15:30:00,1.718,1.12,-0.55,0.598,53.393
+EIA Gasoline Production Change,,18/Nov,US,2022-11-23 15:30:00,-0.625,0.035,,-0.66,1885.714
+EIA Heating Oil Stocks Change,,18/Nov,US,2022-11-23 15:30:00,0.961,0.598,,0.363,60.702
+EIA Gasoline Stocks Change,,18/Nov,US,2022-11-23 15:30:00,3.058,2.207,0.383,0.851,38.559
+EIA Refinery Crude Runs Change,,18/Nov,US,2022-11-23 15:30:00,0.258,0.063,,0.195,309.524
+EIA Crude Oil Imports Change,,18/Nov,US,2022-11-23 15:30:00,1.124,-1.236,,2.36,-190.939
+EIA Crude Oil Stocks Change,,18/Nov,US,2022-11-23 15:30:00,-3.691,-5.4,-1.055,1.709,-31.648
+EIA Cushing Crude Oil Stocks Change,,18/Nov,US,2022-11-23 15:30:00,-0.887,-1.624,,0.737,-45.382
+EIA Distillate Fuel Production Change,,18/Nov,US,2022-11-23 15:30:00,0.014,-0.107,,0.121,-113.084
+New Home Sales,,Oct,US,2022-11-23 15:00:00,0.632,0.588,0.57,0.044,7.483
+Michigan 5 Year Inflation Expectations,,Nov,US,2022-11-23 15:00:00,3,2.9,3,0.1,3.448
+Michigan Inflation Expectations,,Nov,US,2022-11-23 15:00:00,4.9,5,5.1,-0.1,2
+Michigan Current Conditions,,Nov,US,2022-11-23 15:00:00,58.8,65.6,57.8,-6.8,10.366
+Michigan Consumer Expectations,,Nov,US,2022-11-23 15:00:00,55.6,56.2,52.7,-0.6,1.068
+Michigan Consumer Sentiment,,Nov,US,2022-11-23 15:00:00,56.8,59.9,55,-3.1,5.175
+New Home Sales,mom,Oct,US,2022-11-23 15:00:00,7.5,-11,-3.8,18.5,-168.182
+S&P Global Services PMI,,Nov,US,2022-11-23 14:45:00,46.1,47.8,47.9,-1.7,3.556
+S&P Global Composite PMI,,Nov,US,2022-11-23 14:45:00,46.3,48.2,49.5,-1.9,3.942
+S&P Global Manufacturing PMI,,Nov,US,2022-11-23 14:45:00,47.6,50.4,50,-2.8,5.556
+Durable Goods Orders,mom,Oct,US,2022-11-23 13:30:00,1,0.3,0.4,0.7,233.333
+Durable Goods Orders Ex Transp,mom,Oct,US,2022-11-23 13:30:00,0.5,-0.9,,1.4,-155.556
+Durable Goods Orders ex Defense,mom,Oct,US,2022-11-23 13:30:00,0.8,1.4,0.4,-0.6,42.857
+Non Defense Goods Orders Ex Air,,Oct,US,2022-11-23 13:30:00,0.7,-0.8,,1.5,-187.5
+Jobless Claims 4-week Average,,19/Nov,US,2022-11-23 13:30:00,226.75,221.25,224,5.5,2.486
+Continuing Jobless Claims,,12/Nov,US,2022-11-23 13:30:00,1551,1503,1517,48,3.194
+Initial Jobless Claims,,19/Nov,US,2022-11-23 13:30:00,240,223,225,17,7.623
+Building Permits,,Oct,US,2022-11-23 13:25:00,1.512,1.564,1.526,-0.052,3.325
+Building Permits,mom,Oct,US,2022-11-23 13:25:00,-3.3,1.4,-2.4,-4.7,335.714
+Building Permits,,Oct,US,2022-11-23 13:00:00,1.512,1.564,1.526,-0.052,3.325
+Building Permits,mom,Oct,US,2022-11-23 13:00:00,-3.3,1.4,-2.4,-4.7,335.714
+MBA Mortgage Refinance Index,,18/Nov,US,2022-11-23 12:00:00,373.6,367.1,,6.5,1.771
+MBA 30-Year Mortgage Rate,,18/Nov,US,2022-11-23 12:00:00,6.67,6.9,,-0.23,3.333
+MBA Mortgage Market Index,,18/Nov,US,2022-11-23 12:00:00,209.8,205.2,,4.6,2.242
+MBA Mortgage Applications,,18/Nov,US,2022-11-23 12:00:00,2.2,2.7,,-0.5,18.519
+MBA Purchase Index,,18/Nov,US,2022-11-23 12:00:00,174.4,169.7,,4.7,2.77
+API Crude Oil Stock Change,,18/Nov,US,2022-11-22 21:30:00,-4.8,-5.835,-2.2,1.035,-17.738
+Fed Bullard Speech,,,US,2022-11-22 19:45:00,,,,,
+Fed George Speech,,,US,2022-11-22 19:15:00,,,,,
+2-Year FRN Auction,,,US,2022-11-22 19:00:00,,0.14,,,
+7-Year Note Auction,,,US,2022-11-22 18:00:00,3.89,4.027,,-0.137,3.402
+2-Year FRN Auction,,,US,2022-11-22 16:30:00,0.22,0.14,,0.08,57.143
+Fed Mester Speech,,,US,2022-11-22 16:00:00,,,,,
+Richmond Fed Manufacturing Shipments Index,,Nov,US,2022-11-22 15:00:00,-8,-3,2,-5,-166.667
+Richmond Fed Manufacturing Index,,Nov,US,2022-11-22 15:00:00,-9,-10,5,1,-10
+Richmond Fed Services Index,,Nov,US,2022-11-22 15:00:00,-2,-8,3,6,-75
+Redbook,yoy,19/Nov,US,2022-11-22 13:55:00,7.5,6.8,,0.7,10.294
+2-Year Note Auction,,,US,2022-11-21 18:00:00,,4.46,,,
+5-Year Note Auction,,,US,2022-11-21 18:00:00,3.974,4.192,,-0.218,5.2
+3-Month Bill Auction,,,US,2022-11-21 18:00:00,4.22,4.155,,0.065,1.564
+3-Month Bill Auction,,,US,2022-11-21 16:30:00,,4.155,,,
+6-Month Bill Auction,,,US,2022-11-21 16:30:00,4.52,4.44,,0.08,1.802
+2-Year Note Auction,,,US,2022-11-21 16:30:00,4.505,4.46,,0.045,1.009
+Chicago Fed National Activity Index,,Oct,US,2022-11-21 13:30:00,-0.05,0.17,0.1,-0.22,129.412
+Fed Bostic Speech,,,US,2022-11-19 18:45:00,,,,,
+Baker Hughes Total Rig Count,,18/Nov,US,2022-11-18 18:00:00,782,779,,3,0.385
+Baker Hughes Oil Rig Count,,18/Nov,US,2022-11-18 18:00:00,623,622,,1,0.161
+Existing Home Sales,mom,Oct,US,2022-11-18 15:00:00,-5.9,-1.5,-8,-4.4,-293.333
+CB Leading Index,mom,Oct,US,2022-11-18 15:00:00,-0.8,-0.5,-0.4,-0.3,-60
+Existing Home Sales,,Oct,US,2022-11-18 15:00:00,4.43,4.71,4.38,-0.28,5.945
+Fed Collins Speech,,,US,2022-11-18 13:40:00,,,,,
+Fed Kashkari Speech,,,US,2022-11-17 18:45:00,,,,,
+10-Year TIPS Auction,,,US,2022-11-17 18:00:00,1.485,1.248,,0.237,18.99
+4-Week Bill Auction,,,US,2022-11-17 16:30:00,3.795,3.58,,0.215,6.006
+8-Week Bill Auction,,,US,2022-11-17 16:30:00,4.02,3.85,,0.17,4.416
+Kansas Fed Composite Index,,Nov,US,2022-11-17 16:00:00,-6,-7,-5,1,-14.286
+Kansas Fed Manufacturing Index,,Nov,US,2022-11-17 16:00:00,-10,-22,-15,12,-54.545
+Fed Jefferson Speech,,,US,2022-11-17 15:40:00,,,,,
+Fed Kashkari Speech,,,US,2022-11-17 15:40:00,,,,,
+EIA Natural Gas Stocks Change,,11/Nov,US,2022-11-17 15:30:00,64,79,63,-15,18.987
+Fed Mester Speech,,,US,2022-11-17 14:40:00,,,,,
+Fed Bowman Speech,,,US,2022-11-17 14:15:00,,,,,
+Initial Jobless Claims,,12/Nov,US,2022-11-17 13:30:00,222,226,225,-4,1.77
+Housing Starts,mom,Oct,US,2022-11-17 13:30:00,-4.2,-1.3,-2.7,-2.9,-223.077
+Building Permits,mom,Oct,US,2022-11-17 13:30:00,-2.4,1.4,-6.3,-3.8,271.429
+Building Permits,,Oct,US,2022-11-17 13:30:00,1.526,1.564,1.465,-0.038,2.43
+Housing Starts,,Oct,US,2022-11-17 13:30:00,1.425,1.488,1.41,-0.063,4.234
+Continuing Jobless Claims,,05/Nov,US,2022-11-17 13:30:00,1507,1494,1500,13,0.87
+Jobless Claims 4-week Average,,12/Nov,US,2022-11-17 13:30:00,221,219,219,2,0.913
+Philly Fed New Orders,,Nov,US,2022-11-17 13:30:00,-16.2,-15.9,-13,-0.3,-1.887
+Philly Fed Employment,,Nov,US,2022-11-17 13:30:00,7.1,28.5,29,-21.4,75.088
+Philly Fed CAPEX Index,,Nov,US,2022-11-17 13:30:00,6.4,4.4,4.1,2,45.455
+Philly Fed Business Conditions,,Nov,US,2022-11-17 13:30:00,-7.1,-14.9,-12,7.8,-52.349
+Philadelphia Fed Manufacturing Index,,Nov,US,2022-11-17 13:30:00,-19.4,-8.7,-6.2,-10.7,-122.989
+Philly Fed Prices Paid,,Nov,US,2022-11-17 13:30:00,35.3,36.3,37,-1,2.755
+Fed Bostic Speech,,,US,2022-11-17 12:30:00,,,,,
+Overall Net Capital Flows,,Sep,US,2022-11-16 21:00:00,30.9,277.2,,-246.3,88.853
+Net Long-term TIC Flows,,Sep,US,2022-11-16 21:00:00,118,198.3,,-80.3,40.494
+Foreign Bond Investment,,Sep,US,2022-11-16 21:00:00,60.4,175.2,,-114.8,65.525
+Fed Waller Speech,,,US,2022-11-16 19:35:00,,,,,
+20-Year Bond Auction,,,US,2022-11-16 18:00:00,4.072,4.395,,-0.323,7.349
+17-Week Bill Auction,,,US,2022-11-16 16:30:00,4.32,4.3,,0.02,0.465
+EIA Refinery Crude Runs Change,,11/Nov,US,2022-11-16 15:30:00,0.063,0.247,,-0.184,74.494
+EIA Crude Oil Imports Change,,11/Nov,US,2022-11-16 15:30:00,-1.236,0.653,,-1.889,289.28
+EIA Crude Oil Stocks Change,,11/Nov,US,2022-11-16 15:30:00,-5.4,3.925,-0.44,-9.325,237.58
+EIA Gasoline Production Change,,11/Nov,US,2022-11-16 15:30:00,0.035,0.274,,-0.239,87.226
+EIA Heating Oil Stocks Change,,11/Nov,US,2022-11-16 15:30:00,0.598,-0.217,,0.815,-375.576
+EIA Cushing Crude Oil Stocks Change,,11/Nov,US,2022-11-16 15:30:00,-1.624,-0.923,,-0.701,-75.948
+EIA Distillate Fuel Production Change,,11/Nov,US,2022-11-16 15:30:00,-0.107,0.087,,-0.194,222.989
+EIA Distillate Stocks Change,,11/Nov,US,2022-11-16 15:30:00,1.12,-0.521,-0.513,1.641,-314.971
+EIA Gasoline Stocks Change,,11/Nov,US,2022-11-16 15:30:00,2.207,-0.899,0.31,3.106,-345.495
+Retail Inventories Ex Autos,mom,Sep,US,2022-11-16 15:00:00,-0.1,0.7,-0.1,-0.8,114.286
+NAHB Housing Market Index,,Nov,US,2022-11-16 15:00:00,33,38,36,-5,13.158
+Business Inventories,mom,Sep,US,2022-11-16 15:00:00,0.4,0.9,0.5,-0.5,55.556
+Fed S. Barr Testimony,,,US,2022-11-16 15:00:00,,,,,
+Fed Williams Speech,,,US,2022-11-16 14:50:00,,,,,
+Capacity Utilization,,Oct,US,2022-11-16 14:15:00,79.9,80.1,80.4,-0.2,0.25
+Manufacturing Production,mom,Oct,US,2022-11-16 14:15:00,0.1,0.2,0.2,-0.1,50
+Industrial Production,yoy,Oct,US,2022-11-16 14:15:00,3.3,5,5.1,-1.7,34
+Industrial Production,mom,Oct,US,2022-11-16 14:15:00,-0.1,0.1,0.2,-0.2,200
+Manufacturing Production,yoy,Oct,US,2022-11-16 14:15:00,2.4,4,4.5,-1.6,40
+Retail Sales Ex Autos,mom,Oct,US,2022-11-16 13:30:00,1.3,0.1,0.4,1.2,1200
+Retail Sales,yoy,Oct,US,2022-11-16 13:30:00,8.3,8.6,6.9,-0.3,3.488
+Import Prices,mom,Oct,US,2022-11-16 13:30:00,-0.2,-1.1,-0.4,0.9,-81.818
+Export Prices,mom,Oct,US,2022-11-16 13:30:00,-0.3,-1.5,-0.4,1.2,-80
+Import Prices,yoy,Oct,US,2022-11-16 13:30:00,4.2,6,4,-1.8,30
+Export Prices,yoy,Oct,US,2022-11-16 13:30:00,6.9,9.2,7.3,-2.3,25
+Retail Sales,mom,Oct,US,2022-11-16 13:30:00,1.3,,1,1.3,
+Retail Sales Ex Gas/Autos,mom,Oct,US,2022-11-16 13:30:00,0.9,0.6,0.2,0.3,50
+MBA Mortgage Applications,,11/Nov,US,2022-11-16 12:00:00,2.7,-0.1,,2.8,-2800
+MBA Mortgage Refinance Index,,11/Nov,US,2022-11-16 12:00:00,367.1,373.1,,-6,1.608
+MBA 30-Year Mortgage Rate,,11/Nov,US,2022-11-16 12:00:00,6.9,7.14,,-0.24,3.361
+MBA Purchase Index,,11/Nov,US,2022-11-16 12:00:00,169.7,162.6,,7.1,4.367
+MBA Mortgage Market Index,,11/Nov,US,2022-11-16 12:00:00,205.2,199.9,,5.3,2.651
+API Crude Oil Stock Change,,11/Nov,US,2022-11-15 21:30:00,-5.835,5.618,,-11.453,203.863
+Fed S. Barr Testimony,,,US,2022-11-15 15:00:00,,,,,
+Fed Cook Speech,,,US,2022-11-15 14:00:00,,,,,
+Redbook,yoy,12/Nov,US,2022-11-15 13:55:00,6.8,7.6,,-0.8,10.526
+NY Empire State Manufacturing Index,,Nov,US,2022-11-15 13:30:00,4.5,-9.1,-5,13.6,-149.451
+Core PPI,mom,Oct,US,2022-11-15 13:30:00,,0.2,0.3,-0.2,100
+Core PPI,yoy,Oct,US,2022-11-15 13:30:00,6.7,7.1,7.2,-0.4,5.634
+PPI,yoy,Oct,US,2022-11-15 13:30:00,8,8.4,8.3,-0.4,4.762
+PPI,mom,Oct,US,2022-11-15 13:30:00,0.2,0.2,0.4,,
+6-Month Bill Auction,,,US,2022-11-14 16:30:00,4.44,4.49,,-0.05,1.114
+3-Month Bill Auction,,,US,2022-11-14 16:30:00,4.155,4.12,,0.035,0.85
+Fed Brainard Speech,,,US,2022-11-14 16:30:00,,,,,
+Consumer Inflation Expectations,,Oct,US,2022-11-14 16:00:00,5.9,5.4,5.3,0.5,9.259
+Fed Waller Speech,,,US,2022-11-13 21:30:00,,,,,
+Baker Hughes Oil Rig Count,,11/Nov,US,2022-11-11 18:00:00,622,613,,9,1.468
+Baker Hughes Total Rig Count,,11/Nov,US,2022-11-11 18:00:00,779,770,,9,1.169
+Michigan Current Conditions,,Nov,US,2022-11-11 15:00:00,57.8,65.6,64,-7.8,11.89
+Michigan 5 Year Inflation Expectations,,Nov,US,2022-11-11 15:00:00,3,2.9,2.9,0.1,3.448
+Michigan Consumer Sentiment,,Nov,US,2022-11-11 15:00:00,54.7,59.9,59.5,-5.2,8.681
+Michigan Inflation Expectations,,Nov,US,2022-11-11 15:00:00,5.1,5,5.1,0.1,2
+Michigan Consumer Expectations,,Nov,US,2022-11-11 15:00:00,52.7,56.2,56,-3.5,6.228
+Veterans Day,,,US,2022-11-11 00:00:00,,,,,
+Fed Williams Speech,,,US,2022-11-10 23:35:00,,,,,
+Monthly Budget Statement,,Oct,US,2022-11-10 19:00:00,-88,-430,-90,342,-79.535
+Fed George Speech,,,US,2022-11-10 18:30:00,,,,,
+30-Year Bond Auction,,,US,2022-11-10 18:00:00,4.08,3.93,,0.15,3.817
+Fed Mester Speech,,,US,2022-11-10 17:30:00,,,,,
+8-Week Bill Auction,,,US,2022-11-10 16:30:00,3.85,3.88,,-0.03,0.773
+4-Week Bill Auction,,,US,2022-11-10 16:30:00,3.58,3.62,,-0.04,1.105
+EIA Natural Gas Stocks Change,,04/Nov,US,2022-11-10 15:30:00,79,107,84,-28,26.168
+Fed Logan Speech,,,US,2022-11-10 14:35:00,,,,,
+Fed Harker Speech,,,US,2022-11-10 14:00:00,,,,,
+Inflation Rate,yoy,Oct,US,2022-11-10 13:30:00,7.7,8.2,8,-0.5,6.098
+Core Inflation Rate,mom,Oct,US,2022-11-10 13:30:00,0.3,0.6,0.5,-0.3,50
+Core Inflation Rate,yoy,Oct,US,2022-11-10 13:30:00,6.3,6.6,6.5,-0.3,4.545
+Inflation Rate,mom,Oct,US,2022-11-10 13:30:00,0.4,0.4,0.6,,
+Continuing Jobless Claims,,29/Oct,US,2022-11-10 13:30:00,1493,1487,1475,6,0.403
+Initial Jobless Claims,,05/Nov,US,2022-11-10 13:30:00,225,218,220,7,3.211
+Jobless Claims 4-week Average,,05/Nov,US,2022-11-10 13:30:00,218.75,219,221,-0.25,0.114
+CPI,,Oct,US,2022-11-10 13:30:00,298.012,296.808,298.583,1.204,0.406
+CPI,,Oct,US,2022-11-10 12:30:00,,,,,
+Fed Waller Speech,,,US,2022-11-10 07:00:00,,,,,
+10-Year Note Auction,,,US,2022-11-09 18:00:00,4.14,3.93,,0.21,5.344
+WASDE Report,,,US,2022-11-09 17:00:00,,,,,
+Fed Barkin Speech,,,US,2022-11-09 16:00:00,,,,,
+EIA Heating Oil Stocks Change,,04/Nov,US,2022-11-09 15:30:00,-0.217,-0.383,,0.166,-43.342
+EIA Cushing Crude Oil Stocks Change,,04/Nov,US,2022-11-09 15:30:00,-0.923,1.267,,-2.19,172.849
+EIA Crude Oil Imports Change,,04/Nov,US,2022-11-09 15:30:00,0.653,1.229,,-0.576,46.867
+EIA Refinery Crude Runs Change,,04/Nov,US,2022-11-09 15:30:00,0.247,0.406,,-0.159,39.163
+EIA Gasoline Production Change,,04/Nov,US,2022-11-09 15:30:00,0.274,0.043,,0.231,537.209
+EIA Gasoline Stocks Change,,04/Nov,US,2022-11-09 15:30:00,-0.899,-1.257,-1.08,0.358,-28.481
+EIA Crude Oil Stocks Change,,04/Nov,US,2022-11-09 15:30:00,3.925,-3.115,1.36,7.04,-226.003
+EIA Distillate Fuel Production Change,,04/Nov,US,2022-11-09 15:30:00,0.087,0.139,,-0.052,37.41
+EIA Distillate Stocks Change,,04/Nov,US,2022-11-09 15:30:00,-0.521,0.427,-0.8,-0.948,222.014
+Wholesale Inventories,mom,Sep,US,2022-11-09 15:00:00,0.6,1.4,0.8,-0.8,57.143
+MBA Purchase Index,,04/Nov,US,2022-11-09 12:00:00,162.6,160.5,,2.1,1.308
+MBA Mortgage Refinance Index,,04/Nov,US,2022-11-09 12:00:00,373.1,386.7,,-13.6,3.517
+MBA Mortgage Applications,,04/Nov,US,2022-11-09 12:00:00,-0.1,-0.5,,0.4,-80
+MBA Mortgage Market Index,,04/Nov,US,2022-11-09 12:00:00,199.9,200.1,,-0.2,0.1
+MBA 30-Year Mortgage Rate,,04/Nov,US,2022-11-09 12:00:00,7.14,7.06,,0.08,1.133
+Fed Williams Speech,,,US,2022-11-09 08:00:00,,,,,
+API Crude Oil Stock Change,,04/Nov,US,2022-11-08 21:30:00,5.618,-6.53,1.1,12.148,-186.034
+3-Year Note Auction,,,US,2022-11-08 18:00:00,4.605,4.318,,0.287,6.647
+IBD/TIPP Economic Optimism,,Nov,US,2022-11-08 15:00:00,40.4,41.6,41.5,-1.2,2.885
+IBD/TIPP Economic Optimism,,Nov,US,2022-11-08 14:00:00,,41.6,41.5,,
+Redbook,yoy,05/Nov,US,2022-11-08 13:55:00,7.6,9.7,,-2.1,21.649
+NFIB Business Optimism Index,,Oct,US,2022-11-08 11:00:00,91.3,92.1,92,-0.8,0.869
+2022 Midterm Elections,,,US,2022-11-08 00:00:00,,,,,
+Fed Barkin Speech,,,US,2022-11-07 23:00:00,,,,,
+Fed Mester Speech,,,US,2022-11-07 20:40:00,,,,,
+Fed Collins Speech,,,US,2022-11-07 20:40:00,,,,,
+Consumer Credit Change,,Sep,US,2022-11-07 20:00:00,24.98,32.24,30,-7.26,22.519
+Consumer Credit Change,,Sep,US,2022-11-07 19:00:00,,32.24,24,,
+6-Month Bill Auction,,,US,2022-11-07 16:30:00,4.49,4.44,,0.05,1.126
+3-Month Bill Auction,,,US,2022-11-07 16:30:00,4.12,4.07,,0.05,1.229
+Consumer Credit Change,,Sep,US,2022-11-04 19:00:00,,32.24,24,,
+Baker Hughes Oil Rig Count,,04/Nov,US,2022-11-04 17:00:00,613,610,,3,0.492
+Baker Hughes Total Rig Count,,04/Nov,US,2022-11-04 17:00:00,770,768,,2,0.26
+Average Hourly Earnings,yoy,Oct,US,2022-11-04 12:30:00,4.7,5,4.7,-0.3,6
+Unemployment Rate,,Oct,US,2022-11-04 12:30:00,3.7,3.5,3.6,0.2,5.714
+Average Weekly Hours,,Oct,US,2022-11-04 12:30:00,34.5,34.5,34.5,,
+Average Hourly Earnings,mom,Oct,US,2022-11-04 12:30:00,0.4,0.3,0.3,0.1,33.333
+Government Payrolls,,Oct,US,2022-11-04 12:30:00,28,-4,5,32,-800
+Non Farm Payrolls,,Oct,US,2022-11-04 12:30:00,261,315,200,-54,17.143
+Nonfarm Payrolls Private,,Oct,US,2022-11-04 12:30:00,233,319,200,-86,26.959
+Manufacturing Payrolls,,Oct,US,2022-11-04 12:30:00,32,23,15,9,39.13
+Participation Rate,,Oct,US,2022-11-04 12:30:00,62.2,62.3,62.3,-0.1,0.161
+Total Vehicle Sales,,Oct,US,2022-11-04 00:00:00,,13.5,,,
+8-Week Bill Auction,,,US,2022-11-03 15:30:00,3.88,3.82,,0.06,1.571
+4-Week Bill Auction,,,US,2022-11-03 15:30:00,3.62,3.6,,0.02,0.556
+EIA Natural Gas Stocks Change,,28/Oct,US,2022-11-03 14:30:00,107,52,97,55,105.769
+ISM Non-Manufacturing Business Activity,,Oct,US,2022-11-03 14:00:00,55.7,59.1,58.2,-3.4,5.753
+ISM Non-Manufacturing Employment,,Oct,US,2022-11-03 14:00:00,49.1,53,51,-3.9,7.358
+ISM Non-Manufacturing Prices,,Oct,US,2022-11-03 14:00:00,70.7,68.7,68,2,2.911
+ISM Non-Manufacturing New Orders,,Oct,US,2022-11-03 14:00:00,56.5,60.6,59.5,-4.1,6.766
+Factory Orders,mom,Sep,US,2022-11-03 14:00:00,0.3,0.2,0.3,0.1,50
+Factory Orders ex Transportation,,Sep,US,2022-11-03 14:00:00,-0.1,0.1,-0.3,-0.2,200
+ISM Non-Manufacturing PMI,,Oct,US,2022-11-03 14:00:00,54.4,56.7,55.5,-2.3,4.056
+S&P Global Services PMI,,Oct,US,2022-11-03 13:45:00,47.8,49.3,46.6,-1.5,3.043
+S&P Global Composite PMI,,Oct,US,2022-11-03 13:45:00,48.2,49.5,47.3,-1.3,2.626
+Continuing Jobless Claims,,22/Oct,US,2022-11-03 12:30:00,1485,1438,1450,47,3.268
+Jobless Claims 4-week Average,,29/Oct,US,2022-11-03 12:30:00,218.75,219.25,225,-0.5,0.228
+Initial Jobless Claims,,29/Oct,US,2022-11-03 12:30:00,217,218,220,-1,0.459
+Balance of Trade,,Sep,US,2022-11-03 12:30:00,-73.3,-65.7,-72.2,-7.6,-11.568
+Imports,,Sep,US,2022-11-03 12:30:00,331.3,326.5,329,4.8,1.47
+Exports,,Sep,US,2022-11-03 12:30:00,258,260.8,257,-2.8,1.074
+Nonfarm Productivity,qoq,Q3,US,2022-11-03 12:30:00,0.3,-4.1,0.6,4.4,-107.317
+Unit Labour Costs,qoq,Q3,US,2022-11-03 12:30:00,3.5,8.9,4.1,-5.4,60.674
+Challenger Job Cuts,,Oct,US,2022-11-03 11:30:00,33.843,29.989,31,3.854,12.851
+Fed Press Conference,,,US,2022-11-02 18:30:00,,,,,
+Fed Interest Rate Decision,,,US,2022-11-02 18:00:00,4,3.25,4,0.75,23.077
+EIA Refinery Crude Runs Change,,28/Oct,US,2022-11-02 14:30:00,0.406,-0.114,,0.52,-456.14
+EIA Crude Oil Imports Change,,28/Oct,US,2022-11-02 14:30:00,1.229,-0.719,,1.948,-270.932
+EIA Crude Oil Stocks Change,,28/Oct,US,2022-11-02 14:30:00,-3.115,2.588,0.367,-5.703,220.363
+EIA Cushing Crude Oil Stocks Change,,28/Oct,US,2022-11-02 14:30:00,1.267,0.667,,0.6,89.955
+EIA Distillate Fuel Production Change,,28/Oct,US,2022-11-02 14:30:00,0.139,-0.045,,0.184,-408.889
+EIA Distillate Stocks Change,,28/Oct,US,2022-11-02 14:30:00,0.427,0.17,-0.56,0.257,151.176
+EIA Gasoline Production Change,,28/Oct,US,2022-11-02 14:30:00,0.043,0.056,,-0.013,23.214
+EIA Heating Oil Stocks Change,,28/Oct,US,2022-11-02 14:30:00,-0.383,-0.285,,-0.098,-34.386
+EIA Gasoline Stocks Change,,28/Oct,US,2022-11-02 14:30:00,-1.257,-1.478,-1.358,0.221,-14.953
+ADP Employment Change,,Oct,US,2022-11-02 12:15:00,239,192,195,47,24.479
+MBA Mortgage Market Index,,28/Oct,US,2022-11-02 11:00:00,200.1,201.1,,-1,0.497
+MBA Mortgage Applications,,28/Oct,US,2022-11-02 11:00:00,-0.5,-1.7,,1.2,-70.588
+MBA Purchase Index,,28/Oct,US,2022-11-02 11:00:00,160.5,161.8,,-1.3,0.803
+MBA Mortgage Refinance Index,,28/Oct,US,2022-11-02 11:00:00,386.7,386.1,,0.6,0.155
+MBA 30-Year Mortgage Rate,,28/Oct,US,2022-11-02 11:00:00,7.06,7.16,,-0.1,1.397
+Total Vehicle Sales,,Oct,US,2022-11-02 05:00:00,14.9,13.5,,1.4,10.37
+API Crude Oil Stock Change,,28/Oct,US,2022-11-01 20:30:00,-6.53,4.52,0.267,-11.05,244.469
+52-Week Bill Auction,,,US,2022-11-01 15:30:00,4.505,3.955,,0.55,13.906
+Dallas Fed Services Revenues Index,,Oct,US,2022-11-01 14:30:00,8.5,5.9,6,2.6,44.068
+Dallas Fed Services Index,,Oct,US,2022-11-01 14:30:00,-13.6,-5.4,-5,-8.2,-151.852
+JOLTs Job Quits,,Sep,US,2022-11-01 14:00:00,4.061,4.184,4.13,-0.123,2.94
+JOLTs Job Openings,,Sep,US,2022-11-01 14:00:00,10.717,10.28,10,0.437,4.251
+ISM Manufacturing PMI,,Oct,US,2022-11-01 14:00:00,50.2,50.9,50,-0.7,1.375
+Construction Spending,mom,Sep,US,2022-11-01 14:00:00,0.2,-0.6,-0.5,0.8,-133.333
+ISM Manufacturing Employment,,Oct,US,2022-11-01 14:00:00,50,48.7,48.2,1.3,2.669
+ISM Manufacturing Prices,,Oct,US,2022-11-01 14:00:00,46.6,51.7,52.5,-5.1,9.865
+ISM Manufacturing New Orders,,Oct,US,2022-11-01 14:00:00,49.2,47.1,47,2.1,4.459
+S&P Global Manufacturing PMI,,Oct,US,2022-11-01 13:45:00,50.4,52,49.9,-1.6,3.077
+Redbook,yoy,29/Oct,US,2022-11-01 12:55:00,9.7,8.2,,1.5,18.293
+LMI Logistics Managers Index Current,,Oct,US,2022-11-01 10:30:00,,61.4,,,
+LMI Logistics Managers Index Current,,Oct,US,2022-11-01 10:00:00,57.5,61.4,,-3.9,6.352
+6-Month Bill Auction,,,US,2022-10-31 15:30:00,4.44,4.39,,0.05,1.139
+3-Month Bill Auction,,,US,2022-10-31 15:30:00,4.07,4,,0.07,1.75
+Dallas Fed Manufacturing Index,,Oct,US,2022-10-31 14:30:00,-19.4,-17.2,-18,-2.2,-12.791
+Chicago PMI,,Oct,US,2022-10-31 13:45:00,45.2,45.7,47,-0.5,1.094
+Baker Hughes Oil Rig Count,,28/Oct,US,2022-10-28 17:00:00,610,612,,-2,0.327
+Baker Hughes Total Rig Count,,28/Oct,US,2022-10-28 17:00:00,768,771,,-3,0.389
+Michigan Consumer Expectations,,Oct,US,2022-10-28 14:00:00,56.2,58,56.2,-1.8,3.103
+Michigan Consumer Sentiment,,Oct,US,2022-10-28 14:00:00,59.9,58.6,59.8,1.3,2.218
+Pending Home Sales,yoy,Sep,US,2022-10-28 14:00:00,-31,-24.1,-27,-6.9,-28.631
+Pending Home Sales,mom,Sep,US,2022-10-28 14:00:00,-10.2,-1.9,-5,-8.3,-436.842
+Michigan 5 Year Inflation Expectations,,Oct,US,2022-10-28 14:00:00,2.9,2.7,2.9,0.2,7.407
+Michigan Inflation Expectations,,Oct,US,2022-10-28 14:00:00,5,4.7,5.1,0.3,6.383
+Michigan Current Conditions,,Oct,US,2022-10-28 14:00:00,65.6,59.7,65.3,5.9,9.883
+Employment Cost Index,qoq,Q3,US,2022-10-28 12:30:00,1.2,1.3,1.2,-0.1,7.692
+Personal Spending,mom,Sep,US,2022-10-28 12:30:00,0.6,0.6,0.4,,
+Personal Income,mom,Sep,US,2022-10-28 12:30:00,0.4,0.4,0.3,,
+PCE Price Index,mom,Sep,US,2022-10-28 12:30:00,0.3,0.3,0.2,,
+PCE Price Index,yoy,Sep,US,2022-10-28 12:30:00,6.2,6.2,6.1,,
+Core PCE Price Index,yoy,Sep,US,2022-10-28 12:30:00,5.1,4.9,5.2,0.2,4.082
+Core PCE Price Index,mom,Sep,US,2022-10-28 12:30:00,0.5,0.5,0.5,,
+Employment Cost - Wages,qoq,Q3,US,2022-10-28 12:30:00,1.3,1.4,1.5,-0.1,7.143
+Employment Cost - Benefits,qoq,Q3,US,2022-10-28 12:30:00,1,1.2,1.1,-0.2,16.667
+7-Year Note Auction,,,US,2022-10-27 17:00:00,4.027,3.898,,0.129,3.309
+4-Week Bill Auction,,,US,2022-10-27 15:30:00,3.6,3.43,,0.17,4.956
+8-Week Bill Auction,,,US,2022-10-27 15:30:00,3.82,3.69,,0.13,3.523
+Kansas Fed Manufacturing Index,,Oct,US,2022-10-27 15:00:00,-22,2,6,-24,1200
+Kansas Fed Composite Index,,Oct,US,2022-10-27 15:00:00,-7,1,4,-8,800
+EIA Natural Gas Stocks Change,,21/Oct,US,2022-10-27 14:30:00,52,111,59,-59,53.153
+GDP Sales,qoq,Q3,US,2022-10-27 12:30:00,3.3,1.3,1.9,2,153.846
+PCE Prices,qoq,Q3,US,2022-10-27 12:30:00,4.2,7.3,10.5,-3.1,42.466
+Core PCE Prices,qoq,Q3,US,2022-10-27 12:30:00,4.5,4.7,4.5,-0.2,4.255
+Real Consumer Spending,qoq,Q3,US,2022-10-27 12:30:00,1.4,2,2.2,-0.6,30
+GDP Growth Rate,qoq,Q3,US,2022-10-27 12:30:00,2.6,-0.6,2.4,3.2,-533.333
+GDP Price Index,qoq,Q3,US,2022-10-27 12:30:00,4.1,9.1,5.3,-5,54.945
+Jobless Claims 4-week Average,,22/Oct,US,2022-10-27 12:30:00,219,212.25,210,6.75,3.18
+Continuing Jobless Claims,,15/Oct,US,2022-10-27 12:30:00,1438,1383,1388,55,3.977
+Initial Jobless Claims,,22/Oct,US,2022-10-27 12:30:00,217,214,220,3,1.402
+Durable Goods Orders,mom,Sep,US,2022-10-27 12:30:00,0.4,0.2,0.6,0.2,100
+Durable Goods Orders Ex Transp,mom,Sep,US,2022-10-27 12:30:00,-0.5,,0.2,-0.5,
+Durable Goods Orders ex Defense,mom,Sep,US,2022-10-27 12:30:00,1.4,-0.3,0.1,1.7,-566.667
+Non Defense Goods Orders Ex Air,,Sep,US,2022-10-27 12:30:00,-0.7,0.8,0.5,-1.5,187.5
+5-Year Note Auction,,,US,2022-10-26 17:00:00,4.192,4.228,,-0.036,0.851
+2-Year FRN Auction,,,US,2022-10-26 15:30:00,0.14,0.092,,0.048,52.174
+EIA Distillate Stocks Change,,21/Oct,US,2022-10-26 14:30:00,0.17,0.124,-1.138,0.046,37.097
+EIA Gasoline Production Change,,21/Oct,US,2022-10-26 14:30:00,0.056,0.213,,-0.157,73.709
+EIA Heating Oil Stocks Change,,21/Oct,US,2022-10-26 14:30:00,-0.285,-0.543,,0.258,-47.514
+EIA Gasoline Stocks Change,,21/Oct,US,2022-10-26 14:30:00,-1.478,-0.114,-0.805,-1.364,-1196.491
+EIA Refinery Crude Runs Change,,21/Oct,US,2022-10-26 14:30:00,-0.114,-0.133,,0.019,-14.286
+EIA Crude Oil Imports Change,,21/Oct,US,2022-10-26 14:30:00,-0.719,-1.421,,0.702,-49.402
+EIA Crude Oil Stocks Change,,21/Oct,US,2022-10-26 14:30:00,2.588,-1.725,1.029,4.313,-250.029
+EIA Cushing Crude Oil Stocks Change,,21/Oct,US,2022-10-26 14:30:00,0.667,0.583,,0.084,14.408
+EIA Distillate Fuel Production Change,,21/Oct,US,2022-10-26 14:30:00,-0.045,0.16,,-0.205,128.125
+New Home Sales,,Sep,US,2022-10-26 14:00:00,0.603,0.677,0.585,-0.074,10.931
+New Home Sales,mom,Sep,US,2022-10-26 14:00:00,-10.9,24.7,-13.9,-35.6,144.13
+Retail Inventories Ex Autos,mom,Sep,US,2022-10-26 12:30:00,-0.1,0.7,,-0.8,114.286
+Wholesale Inventories,mom,Sep,US,2022-10-26 12:30:00,0.8,1.4,1,-0.6,42.857
+Goods Trade Balance,,Sep,US,2022-10-26 12:30:00,-92.22,-87.28,-86,-4.94,-5.66
+Building Permits,,Sep,US,2022-10-26 12:30:00,1.564,1.542,1.564,0.022,1.427
+Building Permits,mom,Sep,US,2022-10-26 12:30:00,1.4,-8.5,1.4,9.9,-116.471
+Building Permits,mom,Sep,US,2022-10-26 12:00:00,,-8.5,1.4,,
+Building Permits,,Sep,US,2022-10-26 12:00:00,,1.542,1.564,,
+MBA Mortgage Market Index,,21/Oct,US,2022-10-26 11:00:00,201.1,204.6,,-3.5,1.711
+MBA Mortgage Applications,,21/Oct,US,2022-10-26 11:00:00,-1.7,-4.5,,2.8,-62.222
+MBA Purchase Index,,21/Oct,US,2022-10-26 11:00:00,160.4,164.2,,-3.8,2.314
+MBA Mortgage Refinance Index,,21/Oct,US,2022-10-26 11:00:00,394.7,394.6,,0.1,0.025
+MBA 30-Year Mortgage Rate,,21/Oct,US,2022-10-26 11:00:00,7.16,6.94,,0.22,3.17
+API Crude Oil Stock Change,,21/Oct,US,2022-10-25 20:30:00,4.52,-1.27,0.2,5.79,-455.906
+Fed Waller Speech,,,US,2022-10-25 17:55:00,,,,,
+2-Year Note Auction,,,US,2022-10-25 17:00:00,4.46,4.29,,0.17,3.963
+Richmond Fed Manufacturing Shipments Index,,Oct,US,2022-10-25 14:00:00,-3,14,7,-17,121.429
+CB Consumer Confidence,,Oct,US,2022-10-25 14:00:00,102.5,107.8,106.5,-5.3,4.917
+Richmond Fed Services Index,,Oct,US,2022-10-25 14:00:00,-8,,2,-8,
+Richmond Fed Manufacturing Index,,Oct,US,2022-10-25 14:00:00,-10,,2,-10,
+House Price Index,yoy,Aug,US,2022-10-25 13:00:00,11.9,13.9,12.6,-2,14.388
+S&P/Case-Shiller Home Price,mom,Aug,US,2022-10-25 13:00:00,-1.6,-0.8,-0.7,-0.8,-100
+S&P/Case-Shiller Home Price,yoy,Aug,US,2022-10-25 13:00:00,13.1,16,14.4,-2.9,18.125
+House Price Index,mom,Aug,US,2022-10-25 13:00:00,-0.7,-0.6,-0.3,-0.1,-16.667
+House Price Index,,Aug,US,2022-10-25 13:00:00,392,394.6,394,-2.6,0.659
+Redbook,yoy,22/Oct,US,2022-10-25 12:55:00,8.2,8,,0.2,2.5
+4-Week Bill Auction,,,US,2022-10-24 18:30:00,4,3.43,,0.57,16.618
+3-Month Bill Auction,,,US,2022-10-24 15:30:00,4,3.82,,0.18,4.712
+6-Month Bill Auction,,,US,2022-10-24 15:30:00,4.39,4.245,,0.145,3.416
+S&P Global Composite PMI,,Oct,US,2022-10-24 13:45:00,47.3,49.5,50.1,-2.2,4.444
+S&P Global Manufacturing PMI,,Oct,US,2022-10-24 13:45:00,49.9,52,51,-2.1,4.038
+S&P Global Services PMI,,Oct,US,2022-10-24 13:45:00,46.6,49.3,49.2,-2.7,5.477
+Chicago Fed National Activity Index,,Sep,US,2022-10-24 12:30:00,0.1,0.1,0.12,,
+Monthly Budget Statement,,Sep,US,2022-10-21 18:00:00,,-220,-173.5,,
+Baker Hughes Oil Rig Count,,21/Oct,US,2022-10-21 17:00:00,612,610,,2,0.328
+Baker Hughes Total Rig Count,,21/Oct,US,2022-10-21 17:00:00,771,769,,2,0.26
+Monthly Budget Statement,,Sep,US,2022-10-21 14:30:00,-430,-220,-173.5,-210,-95.455
+Fed Williams Speech,,,US,2022-10-21 13:10:00,,,,,
+Fed Bowman Speech,,,US,2022-10-20 18:05:00,,,,,
+Monthly Budget Statement,,Sep,US,2022-10-20 18:00:00,,-220,-173.5,,
+Fed Cook Speech,,,US,2022-10-20 17:45:00,,,,,
+Fed Jefferson Speech,,,US,2022-10-20 17:30:00,,,,,
+5-Year TIPS Auction,,,US,2022-10-20 17:00:00,1.732,0.362,,1.37,378.453
+Fed Harker Speech,,,US,2022-10-20 16:00:00,,,,,
+8-Week Bill Auction,,,US,2022-10-20 15:30:00,3.69,3.48,,0.21,6.034
+4-Week Bill Auction,,,US,2022-10-20 15:30:00,3.43,3.25,,0.18,5.538
+EIA Natural Gas Stocks Change,,14/Oct,US,2022-10-20 14:30:00,111,125,105,-14,11.2
+Existing Home Sales,,Sep,US,2022-10-20 14:00:00,4.71,4.78,4.7,-0.07,1.464
+CB Leading Index,mom,Sep,US,2022-10-20 14:00:00,-0.4,,-0.3,-0.4,
+Existing Home Sales,mom,Sep,US,2022-10-20 14:00:00,-1.5,-0.8,-0.8,-0.7,-87.5
+Philly Fed Business Conditions,,Oct,US,2022-10-20 12:30:00,-14.9,-3.9,-2.5,-11,-282.051
+Continuing Jobless Claims,,08/Oct,US,2022-10-20 12:30:00,1385,1364,1375,21,1.54
+Jobless Claims 4-week Average,,15/Oct,US,2022-10-20 12:30:00,212.25,211,213,1.25,0.592
+Initial Jobless Claims,,15/Oct,US,2022-10-20 12:30:00,214,226,230,-12,5.31
+Philly Fed Prices Paid,,Oct,US,2022-10-20 12:30:00,36.3,29.8,28,6.5,21.812
+Philly Fed New Orders,,Oct,US,2022-10-20 12:30:00,-15.9,-17.6,-13,1.7,-9.659
+Philly Fed Employment,,Oct,US,2022-10-20 12:30:00,28.5,12,10,16.5,137.5
+Philly Fed CAPEX Index,,Oct,US,2022-10-20 12:30:00,4.4,4.6,4.1,-0.2,4.348
+Philadelphia Fed Manufacturing Index,,Oct,US,2022-10-20 12:30:00,-8.7,-9.9,-5,1.2,-12.121
+Fed Bullard Speech,,,US,2022-10-19 23:30:00,,,,,
+Fed Evans Speech,,,US,2022-10-19 22:30:00,,,,,
+Fed Beige Book,,,US,2022-10-19 18:00:00,,,,,
+20-Year Bond Auction,,,US,2022-10-19 17:00:00,4.395,3.82,,0.575,15.052
+Fed Kashkari Speech,,,US,2022-10-19 17:00:00,,,,,
+EIA Distillate Stocks Change,,14/Oct,US,2022-10-19 14:30:00,0.124,-4.853,-2.167,4.977,-102.555
+EIA Gasoline Stocks Change,,14/Oct,US,2022-10-19 14:30:00,-0.114,2.023,-1.114,-2.137,105.635
+EIA Refinery Crude Runs Change,,14/Oct,US,2022-10-19 14:30:00,-0.133,-0.278,,0.145,-52.158
+EIA Crude Oil Imports Change,,14/Oct,US,2022-10-19 14:30:00,-1.421,1.795,,-3.216,179.164
+EIA Crude Oil Stocks Change,,14/Oct,US,2022-10-19 14:30:00,-1.725,9.88,1.38,-11.605,117.46
+EIA Gasoline Production Change,,14/Oct,US,2022-10-19 14:30:00,0.213,-0.846,,1.059,-125.177
+EIA Heating Oil Stocks Change,,14/Oct,US,2022-10-19 14:30:00,-0.543,0.431,,-0.974,225.986
+EIA Cushing Crude Oil Stocks Change,,14/Oct,US,2022-10-19 14:30:00,0.583,-0.309,,0.892,-288.673
+EIA Distillate Fuel Production Change,,14/Oct,US,2022-10-19 14:30:00,0.16,-0.325,,0.485,-149.231
+Housing Starts,mom,Sep,US,2022-10-19 12:30:00,-8.1,13.7,-7,-21.8,159.124
+Building Permits,mom,Sep,US,2022-10-19 12:30:00,1.4,-8.5,-2,9.9,-116.471
+Building Permits,,Sep,US,2022-10-19 12:30:00,1.564,1.542,1.53,0.022,1.427
+Housing Starts,,Sep,US,2022-10-19 12:30:00,1.439,1.566,1.475,-0.127,8.11
+MBA Purchase Index,,14/Oct,US,2022-10-19 11:00:00,164.2,170.5,,-6.3,3.695
+MBA Mortgage Applications,,14/Oct,US,2022-10-19 11:00:00,-4.5,-2,,-2.5,-125
+MBA Mortgage Refinance Index,,14/Oct,US,2022-10-19 11:00:00,394.6,423.2,,-28.6,6.758
+MBA Mortgage Market Index,,14/Oct,US,2022-10-19 11:00:00,204.6,214.3,,-9.7,4.526
+MBA 30-Year Mortgage Rate,,14/Oct,US,2022-10-19 11:00:00,6.94,6.81,,0.13,1.909
+Fed Kashkari Speech,,,US,2022-10-18 21:30:00,,,,,
+API Crude Oil Stock Change,,14/Oct,US,2022-10-18 20:30:00,-1.27,7.054,1.551,-8.324,118.004
+Foreign Bond Investment,,Aug,US,2022-10-18 20:00:00,174.2,23.1,,151.1,654.113
+Overall Net Capital Flows,,Aug,US,2022-10-18 20:00:00,275.6,154,,121.6,78.961
+Net Long-term TIC Flows,,Aug,US,2022-10-18 20:00:00,197.9,21.4,28.2,176.5,824.766
+NAHB Housing Market Index,,Oct,US,2022-10-18 14:00:00,38,46,43,-8,17.391
+Industrial Production,mom,Sep,US,2022-10-18 13:15:00,0.4,-0.1,0.1,0.5,-500
+Manufacturing Production,mom,Sep,US,2022-10-18 13:15:00,0.4,0.4,0.2,,
+Industrial Production,yoy,Sep,US,2022-10-18 13:15:00,5.3,3.9,3.4,1.4,35.897
+Manufacturing Production,yoy,Sep,US,2022-10-18 13:15:00,4.7,3.5,3.1,1.2,34.286
+Capacity Utilization,,Sep,US,2022-10-18 13:15:00,80.3,80.1,80,0.2,0.25
+Redbook,yoy,15/Oct,US,2022-10-18 12:55:00,8,8.3,,-0.3,3.614
+Monthly Budget Statement,,Sep,US,2022-10-17 18:00:00,,-220,-173.5,,
+3-Month Bill Auction,,,US,2022-10-17 15:30:00,3.82,3.51,,0.31,8.832
+6-Month Bill Auction,,,US,2022-10-17 15:30:00,4.245,4.03,,0.215,5.335
+NY Empire State Manufacturing Index,,Oct,US,2022-10-17 12:30:00,-9.1,-1.5,-4,-7.6,-506.667
+Baker Hughes Oil Rig Count,,14/Oct,US,2022-10-14 17:00:00,610,602,,8,1.329
+Baker Hughes Total Rig Count,,14/Oct,US,2022-10-14 17:00:00,769,762,,7,0.919
+Michigan Current Conditions,,Oct,US,2022-10-14 14:00:00,65.3,59.7,59.9,5.6,9.38
+Michigan Consumer Sentiment,,Oct,US,2022-10-14 14:00:00,59.8,58.6,59,1.2,2.048
+Michigan Inflation Expectations,,Oct,US,2022-10-14 14:00:00,5.1,4.7,4.7,0.4,8.511
+Business Inventories,mom,Aug,US,2022-10-14 14:00:00,0.8,0.5,0.9,0.3,60
+Retail Inventories Ex Autos,mom,Aug,US,2022-10-14 14:00:00,0.6,0.3,0.6,0.3,100
+Michigan Consumer Expectations,,Oct,US,2022-10-14 14:00:00,56.2,58,58.5,-1.8,3.103
+Michigan 5 Year Inflation Expectations,,Oct,US,2022-10-14 14:00:00,2.9,2.7,2.7,0.2,7.407
+Export Prices,mom,Sep,US,2022-10-14 12:30:00,-0.8,-1.7,-1,0.9,-52.941
+Import Prices,mom,Sep,US,2022-10-14 12:30:00,-1.2,-1.1,-1.1,-0.1,-9.091
+Export Prices,yoy,Sep,US,2022-10-14 12:30:00,9.5,10.7,9.2,-1.2,11.215
+Retail Sales Ex Gas/Autos,mom,Sep,US,2022-10-14 12:30:00,0.3,0.6,0.2,-0.3,50
+Import Prices,yoy,Sep,US,2022-10-14 12:30:00,6,7.8,6.1,-1.8,23.077
+Retail Sales,mom,Sep,US,2022-10-14 12:30:00,,0.4,0.2,-0.4,100
+Retail Sales Ex Autos,mom,Sep,US,2022-10-14 12:30:00,0.1,-0.1,-0.1,0.2,-200
+Retail Sales,yoy,Sep,US,2022-10-14 12:30:00,8.2,9.4,8,-1.2,12.766
+30-Year Bond Auction,,,US,2022-10-13 17:00:00,3.93,3.511,,0.419,11.934
+8-Week Bill Auction,,,US,2022-10-13 15:30:00,3.48,3.23,,0.25,7.74
+4-Week Bill Auction,,,US,2022-10-13 15:30:00,3.25,2.92,,0.33,11.301
+EIA Heating Oil Stocks Change,,07/Oct,US,2022-10-13 15:00:00,0.431,0.499,,-0.068,13.627
+EIA Cushing Crude Oil Stocks Change,,07/Oct,US,2022-10-13 15:00:00,-0.309,0.273,,-0.582,213.187
+EIA Distillate Fuel Production Change,,07/Oct,US,2022-10-13 15:00:00,-0.325,0.23,,-0.555,241.304
+EIA Distillate Stocks Change,,07/Oct,US,2022-10-13 15:00:00,-4.853,-3.443,-2.05,-1.41,-40.953
+EIA Gasoline Stocks Change,,07/Oct,US,2022-10-13 15:00:00,2.023,-4.728,-1.825,6.751,-142.788
+EIA Refinery Crude Runs Change,,07/Oct,US,2022-10-13 15:00:00,-0.278,0.21,,-0.488,232.381
+EIA Crude Oil Stocks Change,,07/Oct,US,2022-10-13 15:00:00,9.88,-1.356,1.75,11.236,-828.614
+EIA Crude Oil Imports Change,,07/Oct,US,2022-10-13 15:00:00,1.795,-0.407,,2.202,-541.032
+EIA Gasoline Production Change,,07/Oct,US,2022-10-13 15:00:00,-0.846,0.389,,-1.235,317.481
+EIA Natural Gas Stocks Change,,07/Oct,US,2022-10-13 14:30:00,125,129,123,-4,3.101
+Inflation Rate,mom,Sep,US,2022-10-13 12:30:00,0.4,0.1,0.2,0.3,300
+Core Inflation Rate,mom,Sep,US,2022-10-13 12:30:00,0.6,0.6,0.5,,

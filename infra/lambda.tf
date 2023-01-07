@@ -1,17 +1,16 @@
-resource "aws_lambda_function" "pricehistory" {
-  function_name    = "pricehistory"
-  role             = aws_iam_role.pricehistory_lambda.arn
-  filename         = "../dist/pricehistory.zip"
-  source_code_hash = filebase64sha256("../dist/pricehistory.zip")
-  handler          = "pricehistory.lambda_function.lambda_handler"
+resource "aws_lambda_function" "economic_events" {
+  function_name    = "economic_events"
+  role             = aws_iam_role.economic_events_lambda.arn
+  filename         = "../dist/economic_events.zip"
+  source_code_hash = filebase64sha256("../dist/economic_events.zip")
+  handler          = "economic_events.lambda_function.lambda_handler"
   runtime          = "python3.9"
   publish          = true
   timeout          = 60
 
   environment {
     variables = {
-      CODE : data.aws_ssm_parameter.code.value
-      CLIENT_ID : data.aws_ssm_parameter.client_id.value
+      API_EOD : data.aws_ssm_parameter.eod_api_key.value
     }
   }
 }
