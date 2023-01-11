@@ -11,6 +11,7 @@ resource "aws_lambda_function" "economic_events" {
   environment {
     variables = {
       API_EOD : data.aws_ssm_parameter.eod_api_key.value
+      DDB_ECONOMIC_EVENTS : aws_dynamodb_table.economic_events.name
     }
   }
 }

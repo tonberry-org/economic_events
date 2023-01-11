@@ -19,6 +19,10 @@ def get_logging_level() -> Union[str, int]:
     return os.environ.get("LOG_LEVEL") or logging.INFO
 
 
+def get_ddb_economic_events() -> str:
+    return get_or_throw("DDB_ECONOMIC_EVENTS")
+
+
 def get_api_eod() -> str:
     return get_or_throw("API_EOD")
 

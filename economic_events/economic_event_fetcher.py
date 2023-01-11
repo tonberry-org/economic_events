@@ -81,8 +81,9 @@ class EconomicEventFetcher:
         today = date.today()
         current_from = since
         current_to = self.get_end_of_month(current_from)
+        result = []
         while current_from < today:
-            result = self.fetch_econmic_events_for_date_range(
+            result += self.fetch_econmic_events_for_date_range(
                 fromDate=current_from, toDate=current_to
             )
             current_from = current_to + timedelta(days=1)
