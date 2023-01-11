@@ -31,7 +31,7 @@ class EconomicEentIngestor:
             writer.writerows(event_data)
         return filename
 
-    def dedup(self, event_data: list[dict[str, Any]]) -> pd.DataFrame:
+    def transform(self, event_data: list[dict[str, Any]]) -> pd.DataFrame:
         df = pd.DataFrame(event_data)
         df["date"] = df["date"].map(
             lambda x: datetime.fromisoformat(x).replace(tzinfo=timezone.utc).isoformat()
@@ -56,12 +56,10 @@ class EconomicEentIngestor:
         )
 
     def ingest(self, event_data: list[dict[str, Any]]) -> None:
-
-        event_data_df = self.dedup(event_data)
+        event_data_df = self.transform(event_data)
 
         with self._ddb_economic_events.batch_writer() as batch:
             for index, row in event_data_df.iterrows():
-
                 batch.put_item(json.loads(row.to_json(), parse_float=Decimal))
 
     def __get_keys(self, response: list[dict[str, Any]]) -> list[str]:
