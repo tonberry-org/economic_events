@@ -1,6 +1,9 @@
 import os
 import logging
 from typing import Union
+from common.ssm import SSM
+
+ssm = SSM()
 
 
 class ConfigException(Exception):
@@ -24,7 +27,7 @@ def get_ddb_economic_events() -> str:
 
 
 def get_api_eod() -> str:
-    return get_or_throw("API_EOD")
+    return str(ssm.get_parameter("/eod/api_key"))
 
 
 def get_code() -> str:
