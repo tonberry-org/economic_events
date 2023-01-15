@@ -22,3 +22,8 @@ resource "aws_lambda_permission" "event_economic_events" {
   principal     = "events.amazonaws.com"
   source_arn    = aws_cloudwatch_event_rule.economic_events.arn
 }
+
+resource "aws_cloudwatch_log_group" "economic_events" {
+  name              = "/aws/lambda/${aws_lambda_function.economic_events.function_name}"
+  retention_in_days = 7
+}

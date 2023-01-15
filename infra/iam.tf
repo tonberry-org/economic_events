@@ -10,6 +10,10 @@ data "aws_iam_policy_document" "lamda_exec_assume_role" {
   }
 }
 
+data "aws_iam_policy" "newrelic_license_key_policy" {
+  arn = "arn:aws:iam::${data.aws_caller_identity.current.account_id}:policy/NewRelic-ViewLicenseKey-us-west-2"
+}
+
 data "aws_iam_policy" "aws_lambda_basic_execution_role" {
   arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
 }
@@ -28,6 +32,7 @@ resource "aws_iam_role" "economic_events_lambda" {
 
   managed_policy_arns = [
     data.aws_iam_policy.aws_lambda_basic_execution_role.arn,
+    data.aws_iam_policy.newrelic_license_key_policy.arn,
     data.aws_iam_policy.ddb.arn,
     data.aws_iam_policy.s3.arn,
   ]
