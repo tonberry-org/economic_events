@@ -21,6 +21,7 @@ resource "aws_lambda_function" "economic_events" {
       NEW_RELIC_DISTRIBUTED_TRACING_ENABLED = true
     }
   }
+  layers = ["arn:aws:lambda:us-west-2:451483290750:layer:NewRelicPython39:36"]
 }
 
 
