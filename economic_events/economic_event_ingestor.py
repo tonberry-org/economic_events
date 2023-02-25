@@ -36,6 +36,10 @@ class EconomicEentIngestor:
         df["date"] = df["date"].map(
             lambda x: datetime.fromisoformat(x).replace(tzinfo=timezone.utc).isoformat()
         )
+        df.country = df.country.fillna("")
+        df.type = df.type.fillna("")
+        df.comparison = df.comparison.fillna("")
+        df.period = df.period.fillna("")
         df["id"] = (
             df["country"]
             + ":"

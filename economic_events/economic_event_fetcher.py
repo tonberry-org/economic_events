@@ -76,7 +76,7 @@ class EconomicEventFetcher:
         return date(for_date.year, for_date.month, range)
 
     def fetch_all_econmic_events(
-        self, since: date = date(2020, 1, 1)
+        self, since: date = date(2019, 11, 1)
     ) -> list[dict[str, Any]]:
         today = date.today()
         current_from = since
